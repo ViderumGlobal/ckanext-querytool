@@ -23,8 +23,9 @@
 {% block primary_content_inner %}
   <h1 class="heading">{{ _('Reports') }}</h1>
     <ul class="nav nav-tabs">
-      <li><a href="{{ h.url_for(controller='ckanext.querytool.controllers.group:QuerytoolGroupController', action='read_all_reports', ) }}">{{ _('Reports') }}</a></li>
       <li class="active"><a href="/group">{{ _('Groups') }}</a></li>
+      <li><a href="{{ h.url_for(controller='ckanext.querytool.controllers.group:QuerytoolGroupController', action='read_all_reports', ) }}">{{ _('Reports') }}</a></li>
+      
     </ul>
 
     <div class="tab-content" style="display:block">

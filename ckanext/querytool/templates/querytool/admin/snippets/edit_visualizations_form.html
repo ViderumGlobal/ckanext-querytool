@@ -9,6 +9,10 @@ resource 'querytool/javascript/dist/visualizations_settings.js' %} {% resource
 action_url = h.url_for('querytool_edit_visualizations', querytool= '/' + name)
 %}
 
+<script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/d3/3.5.6/d3.min.js"></script>
+
+
 <form
   method="post"
   action="{{ action_url }}"
@@ -69,7 +73,7 @@ action_url = h.url_for('querytool_edit_visualizations', querytool= '/' + name)
           options=[{'value': '', 'text': _('— Select type —')}, {'value':
           'chart', 'text': _('Chart')}, {'value': 'map', 'text': _('Map')},
           {'value':'text-box', 'text': _('Text box')},{'value':'image', 'text':
-          _('Image')}, {'value':'table', 'text': _('Table')}]) }}
+          _('Image')}, {'value':'table', 'text': _('Table')}, {'value':'break-line', 'text': _('Break line')}]) }}
         </li>
         <li>
           <a
@@ -107,8 +111,10 @@ action_url = h.url_for('querytool_edit_visualizations', querytool= '/' + name)
     snippet 'ajax_snippets/table_item.html', n = item.order, table = item,
     sql_string = data.sql_string, resource_id = data.chart_resource, y_axis =
     data.y_axis_column, y_axis_values = data.y_axis_values, measure_label =
-    measure_label, main_filters = data.main_filters_names %} {% endif %} {%
-    endfor %}
+    measure_label, main_filters = data.main_filters_names %} {% endif %}
+    {% if item.type == 'break_line' %} {% snippet 'ajax_snippets/break_line_item.html', n
+    = item.order, break_line = item %} {% endif %}
+    {% endfor %}
   </fieldset>
 
   {% endblock %}

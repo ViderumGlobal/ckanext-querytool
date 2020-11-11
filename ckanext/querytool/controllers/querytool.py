@@ -341,6 +341,8 @@ class QueryToolController(base.BaseController):
             images = []
             maps = []
             tables = []
+            break_lines = []
+
             for k, v in data.items():
                 '''
                 TODO: save visualizations with key value e.g {'charts' :[]
@@ -457,6 +459,14 @@ class QueryToolController(base.BaseController):
 
                     text_boxes.append(text_box)
 
+                if k.startswith('line_break_'):
+                    break_line = {}
+                    id = k.split('_')[-1]
+                    break_line['type'] = 'break_line'
+                    break_line['order'] = int(id)
+
+                    break_lines.append(break_line)
+
                 if k.startswith('image_field_size_'):
                     image = {}
                     id = k.split('_')[-1]
@@ -560,7 +570,7 @@ class QueryToolController(base.BaseController):
 
                     tables.append(table_item)
 
-            vis = visualizations + text_boxes + images + maps + tables
+            vis = visualizations + text_boxes + images + maps + tables + break_lines
             _visualization_items['visualizations'] = json.dumps(vis)
 
             if 'choose_y_axis_column' in data:

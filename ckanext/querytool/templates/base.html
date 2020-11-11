@@ -7,12 +7,14 @@
 
 {% block styles %}
 {{ super() }}
-      {% resource 'querytool/css/main.css' %}
+  {% resource 'querytool/css/main.css' %}
+  {% resource 'querytool/css/palette-color-picker.css' %}
 {% endblock %}
 
 {% block bodytag %} {{ super() }} id="vs-page"{% endblock %}
 
 {% block scripts %}
   {{ super() }}
+  {% resource 'querytool/javascript/palette-color-picker.js' %}
   {% resource 'querytool/javascript/vitals.js' %}
 {% endblock %}

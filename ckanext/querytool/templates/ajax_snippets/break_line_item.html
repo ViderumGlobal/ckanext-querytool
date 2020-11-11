@@ -1,0 +1,12 @@
+ {% import 'macros/form.html' as form %}
+
+  <div id="break_line_{{ n }}"  class="item text-boxs-section break_line visualization-fields-section">
+    <div class="item-wrapper">
+      <h2> Break line</h2>
+      <textarea id="line_break_desc_{{ n }}" name="line_break_desc_{{ n }}" style="display:none"></textarea>
+      <ul class="inline text-right chart-actions">
+        <li class="remove"><a class="btn delete-item-btn">{% block delete_button_text %}<span class="fa fa-trash-o" aria-hidden="true"></span> {{ _('Delete') }}{% endblock %}</a></li>
+      </ul>
+      <span class="grippy"></span>
+    </div>
+  </div>

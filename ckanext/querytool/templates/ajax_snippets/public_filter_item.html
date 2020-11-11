@@ -24,14 +24,12 @@
   <div class="filter-item" >
     <label for="data_filter_value_{{ id }}">{{ selected_filter.alias }}</label>
     <input type="hidden" id="data_filter_name_{{ id }}" name="{{alias}}data_filter_name_{{ n }}" value="{{ selected_filter.name }}" {% if class %}disabled{% endif %}/>
-    <div class="select-wrap">
-      <select class="filter-item filter-item-value input-block-level {{ class }}" id="data_filter_value_{{ id }}" name="{{alias}}data_filter_value_{{ n }}" {% if class %}disabled{% endif %}>
-        <option value="">&mdash;{{ _('Select value') }}&mdash;</option>
-        {% if selected_filter %}
-        <option value="{{ selected_filter.value.replace('%26','&') }}" selected>{{ selected_filter.value.replace('%26','&') }}</option>
-        {% endif %}
-      </select>
-    </div>
+    <select class="filter-item filter-item-value input-block-level {{ class }}" id="data_filter_value_{{ id }}" name="{{alias}}data_filter_value_{{ n }}" {% if class %}disabled{% endif %}>
+      <option value="">&mdash;{{ _('Select value') }}&mdash;</option>
+      {% if selected_filter %}
+      <option value="{{ selected_filter.value.replace('%26','&') }}" selected>{{ selected_filter.value.replace('%26','&') }}</option>
+      {% endif %}
+    </select>
   </div>
 </div>
 

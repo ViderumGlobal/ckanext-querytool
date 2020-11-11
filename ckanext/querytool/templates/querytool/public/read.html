@@ -56,33 +56,33 @@
 
     <div class="filters-wrapper" >
       <div class="filters">
-          {% if querytool.public_filters  %}
-            {% set show_arrow = False %}
-            {% for filter in querytool.public_filters %}
-              {% set public_filter_id = h.querytool_get_uuid() %}
-              {% snippet 'ajax_snippets/public_filter_item.html', id=public_filter_id, q_name=querytool.name, n=filter.order, selected_filter=filter, visibility=filter.visibility, show_arrow=show_arrow %}
-              {# set show_arrow = show_arrow or filter.visibility == 'public' #} 
-            {% endfor %}
-          {% endif %}
-          <input type="hidden" class="field_resource_id" value="{{ querytool.chart_resource }}"/>
-          <div type="hidden" id="{{querytool.name}}_public_filters" data-main-filters="{{ querytool.public_main_filters or [] }}"></div>
 
-        <div class="filter-group-wrapper">
+        <div class="filter-group-wrapper" style="border-bottom: 1px solid rgb(218, 218, 218);padding-bottom:10px;">
           <div class="filter-item">
             <label for="{{querytool.name}}_y_axis_column">{{ _('Displayed Measure') }}</label>
             {% if y_axis_columns|length == 1 %}
               <input id="{{querytool.name}}_y_axis_column" name="{{querytool.name}}_y_axis_column" class="filter-item filter-item-column input-block-level" value="{{ y_axis_selected }}" disabled/>
             {% else %}
-              <div class="select-wrap">
-                <select id="{{querytool.name}}_y_axis_column" name="{{querytool.name}}_y_axis_column" class="filter-item filter-item-column input-block-level">
-                {% for y_axis in y_axis_columns %}
-                  <option value="{{ y_axis.name }}" {{ 'selected' if y_axis.name == y_axis_selected }}>{{ y_axis.alias or y_axis.name }}</option>
-                {% endfor %}
-                </select>
-              </div>
+              <select id="{{querytool.name}}_y_axis_column" name="{{querytool.name}}_y_axis_column" class="filter-item filter-item-column input-block-level">
+              {% for y_axis in y_axis_columns %}
+                <option value="{{ y_axis.name }}" {{ 'selected' if y_axis.name == y_axis_selected }}>{{ y_axis.alias or y_axis.name }}</option>
+              {% endfor %}
+              </select>
             {% endif %}
           </div>
         </div>
+        
+        {% if querytool.public_filters  %}
+          {% set show_arrow = False %}
+          {% for filter in querytool.public_filters %}
+            {% set public_filter_id = h.querytool_get_uuid() %}
+            {% snippet 'ajax_snippets/public_filter_item.html', id=public_filter_id, q_name=querytool.name, n=filter.order, selected_filter=filter, visibility=filter.visibility, show_arrow=show_arrow %}
+            {# set show_arrow = show_arrow or filter.visibility == 'public' #} 
+          {% endfor %}
+        {% endif %}
+        <input type="hidden" class="field_resource_id" value="{{ querytool.chart_resource }}"/>
+        <div type="hidden" id="{{querytool.name}}_public_filters" data-main-filters="{{ querytool.public_main_filters or [] }}"></div>
+
       </div>
 
       <button type="submit" class="btn btn-update" data-anchor="{{ querytool.name }}"> {{ _('Update') }}</button>
