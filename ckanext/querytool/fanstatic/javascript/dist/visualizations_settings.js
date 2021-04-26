@@ -1494,6 +1494,7 @@
                             dt = e.find("[id*=table_main_value_]"),
                             ft = e.find("[id*=table_category_name_]"),
                             ut = e.find("[id*=table_field_title_]"),
+                            gb = e.find("[id*=table_field_group_by_]"),
                             st = e.find("[id*=table_field_filter_name_]"),
                             pt = e.find("[id*=table_field_filter_value_]"),
                             ht = e.find("[id*=table_div_filter_value_]"),
@@ -1501,7 +1502,7 @@
                             vt = e.find("[id*=table_div_filter_alias_]"),
                             gt = e.find("[id*=table_field_filter_visibility_]"),
                             yt = e.find("[id*=table_div_filter_visibility_]");
-                        e.attr("id", "table_item_" + i), _t.attr("id", "table_size_" + i), _t.attr("name", "table_size_" + i), ct.attr("id", "table_data_format_" + i), ct.attr("name", "table_data_format_" + i), dt.attr("id", "table_main_value_" + i), dt.attr("name", "table_main_value_" + i), ft.attr("id", "table_category_name_" + i), ft.attr("name", "table_category_name_" + i), ut.attr("id", "table_field_title_" + i), ut.attr("name", "table_field_title_" + i), st.attr("id", "table_field_filter_name_" + i), st.attr("name", "table_field_filter_name_" + i), pt.attr("id", "table_field_filter_value_" + i), pt.attr("name", "table_field_filter_value_" + i), ht.attr("id", "table_div_filter_value_" + i), mt.attr("id", "table_field_filter_alias_" + i), mt.attr("name", "table_field_filter_alias_" + i), vt.attr("id", "table_div_filter_alias_" + i), gt.attr("id", "table_field_filter_visibility_" + i), gt.attr("name", "table_field_filter_visibility_" + i), yt.attr("id", "table_div_filter_visibility_" + i)
+                        e.attr("id", "table_item_" + i), _t.attr("id", "table_size_" + i), _t.attr("name", "table_size_" + i), ct.attr("id", "table_data_format_" + i), ct.attr("name", "table_data_format_" + i), dt.attr("id", "table_main_value_" + i), dt.attr("name", "table_main_value_" + i), ft.attr("id", "table_category_name_" + i), ft.attr("name", "table_category_name_" + i), ut.attr("id", "table_field_title_" + i), ut.attr("name", "table_field_title_" + i), gb.attr("id", "table_field_group_by_" + i), gb.attr("name", "table_field_group_by_" + i), st.attr("id", "table_field_filter_name_" + i), st.attr("name", "table_field_filter_name_" + i), pt.attr("id", "table_field_filter_value_" + i), pt.attr("name", "table_field_filter_value_" + i), ht.attr("id", "table_div_filter_value_" + i), mt.attr("id", "table_field_filter_alias_" + i), mt.attr("name", "table_field_filter_alias_" + i), vt.attr("id", "table_div_filter_alias_" + i), gt.attr("id", "table_field_filter_visibility_" + i), gt.attr("name", "table_field_filter_visibility_" + i), yt.attr("id", "table_div_filter_visibility_" + i)
                     }
                 })
             }

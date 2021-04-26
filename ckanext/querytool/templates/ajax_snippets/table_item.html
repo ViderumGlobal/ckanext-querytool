@@ -73,6 +73,17 @@
         </select>
       </div>
     </div>
+    <div class="control-group control-select">
+      <label class="control-label" for="table_group_by_{{ n }}">{{ _('Group by') }}</label>
+      <div class="controls ">
+        <select id="table_group_by_{{ n }}" name="table_group_by_{{ n }}">
+        <option value="">&mdash; {{ _('Select grouping') }} &mdash;</option>
+        {% for column in [0, 1, 2, 3, 4] %}
+        <option value="{{column}}"{% if table %}{{ 'selected' if column == table.table_group_by }}{% endif %}>{{column}}</option>
+        {% endfor %}
+        </select>
+      </div>
+    </div>
     {% for item in y_axis_values %}
       {% do main_filters.append(item) %}
     {% endfor %}
@@ -88,6 +99,7 @@
         </select>
       </div>
     </div>
+    {{table}}
     <div id="table_div_filter_value_{{ n }}" class="control-group control-select {{ class }}">
       <label class="control-label" for="table_field_filter_value_{{ n }}">{{ _('Default value') }}</label>
       <div class="controls ">
@@ -137,6 +149,7 @@
     {% set filter_name = table.filter_name %}
     {% set filter_value = table.filter_value %}
     {% set table_title = table.title %}
+    {% set table_group_by = table.table_group_by %}
   {% endif %}
   <div class="preview-wrapper">
     {% snippet 'ajax_snippets/table_module.html',
@@ -150,7 +163,8 @@
       filter_name=filter_name,
       filter_value=filter_value,
       table_title = table_title,
-      info_query_filters = info_query_filters
+      info_query_filters = info_query_filters,
+      table_group_by = table_group_by
     %}
   </div>
   <ul class="inline text-right chart-actions">

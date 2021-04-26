@@ -576,6 +576,8 @@ class QueryToolController(base.BaseController):
                         data['table_main_value_{}'.format(id)]
                     table_item['title'] = \
                         data['table_field_title_{}'.format(id)]
+                    table_item['table_group_by'] = \
+                        data['table_group_by_{}'.format(id)]
                     table_item['data_format'] = \
                         data['table_data_format_{}'.format(id)]
                     if data['table_field_filter_name_{}'.format(id)]:

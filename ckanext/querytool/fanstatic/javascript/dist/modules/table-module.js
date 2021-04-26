@@ -1804,6 +1804,7 @@
                     var optionalFilterSlug = (this.options.filter_slug === true) ? '' : this.options.filter_slug;
                     var optionalFilterValue = (this.options.filter_value === true) ? '' : this.options.filter_value;
                     var optionalFilter = optionalFilterName ? {name: optionalFilterName, slug: optionalFilterSlug, value: optionalFilterValue} : undefined;
+                    var tableGroupBy = this.options.table_group_by ? '' : parseInt(this.options.table_group_by);
                     
                     var f = !0 === this.options.category_name ? "" : this.options.category_name,
                         p = this.renderChartTitle(this.options.table_title,{
@@ -1817,6 +1818,7 @@
                         i.sortData(n, s.toLowerCase(), l.toLowerCase());
                         var r = f ? i.render_data_table_with_category(n, f, l, s, c) : i.render_data_table(n, l, s, c),
                             o = $("#table-item-" + a);
+                        console.log(tableGroupBy)
                         $.fn.DataTable.isDataTable(o) && o.DataTable().destroy(),
                             o.html(r),
                             o.DataTable({
@@ -1829,8 +1831,7 @@
                                 ],
                                 processing: !0,
                                 rowsGroup: [
-                                    1,
-                                    2
+                                    tableGroupBy
                                 ]
                             }),
                             $("div.dt-header" + a).text(p);
@@ -1906,6 +1907,7 @@
                         (this.options.filter_name = this.el.parent().parent().find("[id*=table_field_filter_name_]").val()),
                         (this.options.filter_value = this.el.parent().parent().find("[id*=table_field_filter_value_]").val()),
                         (this.options.table_title = this.el.parent().parent().find("[id*=table_field_title_]").val()),
+                        (this.options.table_group_by = this.el.parent().parent().find("[id*=table_group_by_]").val()),
                         (this.options.measure_label = n),
                         this.createTable(t, e, !0);
                 },
