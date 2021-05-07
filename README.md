@@ -4,6 +4,45 @@
 
 A CKAN extension to create visualizations based on the uploaded datasets.
 
+## Creating new releases
+
+Before creating a new release, see the next section, [Test data seed command](#test-data-seed-command)
+
+### Test data seed command
+
+On a freshly installed portal, with nothing but an admin user, you can run a `paster` command to populate the portal with test data found on the [STEPS Data](https://vital-stepsdata.org/) site. This includes the STEPS Survey organization, 9 datasets with 2 resources each, and 9 reports with multiple visualizations.
+
+Before creating a new release, this command should be run to verify that there are no compatibility issues. This could be especially critical if there are any changes to the DB tables or structure.
+
+To populate the portal, run:
+
+```
+paster --plugin=ckanext-querytool seed_portal -c /path/to/.ini
+```
+
+It will then prompt the user to enter the admin name and admin API key:
+
+```
+Enter the admin login name: <ADMIN_NAME>
+
+Enter the admin API key: <API_KEY>
+```
+
+That's it! You'll see output for each step (but the overall run time is very fast) and it will alert you if it runs into any issues.
+
+If you have issues running the command successfully, you might need to run these `paster` commands:
+
+>**WARNING**: The following commands will completely clear the DB, including the admin user, password, and email address. If you've created anything on the portal, you'll need to do so again.
+
+```
+paster --plugin=ckan db clean -c /path/to/.ini
+paster --plugin=ckan db init -c /path/to/.ini
+```
+
+After you've recreated the admin user, run the `seed_portal` command again, with this admin user name and _new_ API key.
+
+**TODO**: _Possibly_ add a `make` command to the [ckan-cloud-docker](https://github.com/datopian/ckan-cloud-docker) `Makefile`.
+
 ## Javascript and Webpack
 ### Webpack and Babel config
 `.babelrc` -- babel config (see https://babeljs.io/docs/en/configuration#babelrc for config options)

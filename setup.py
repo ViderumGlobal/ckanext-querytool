@@ -86,6 +86,9 @@ setup(
         [ckan.plugins]
         querytool=ckanext.querytool.plugin:QuerytoolPlugin
 
+        [paste.paster_command]
+        seed_portal=ckanext.querytool.commands.seed:SeedData
+
         [babel.extractors]
         ckan = ckan.lib.extract:extract_ckan
     ''',

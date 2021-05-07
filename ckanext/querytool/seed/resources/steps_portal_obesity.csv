@@ -1,0 +1,958 @@
+﻿Indicator,Answer,Demographic Group,Demographic Characteristic,Year,Type of indicator,Metric,Estimated Population,Visualization Filter,Name for optional filter,Ref_group,National Reference
+Percentage by BMI category,1.Underweight (<18.5),Total,Total,2015,Estimated,45.63,56393968,viz_total,Percentage by BMI category,"",
+Percentage by BMI category,1.Underweight (<18.5),Sex,Men,2015,Estimated,39.89,49299921,viz_sex,Percentage by BMI category,Total,45.63
+Percentage by BMI category,1.Underweight (<18.5),Sex,Women,2015,Estimated,14.14,17475580,viz_sex,Percentage by BMI category,Total,45.63
+Percentage by BMI category,1.Underweight (<18.5),Age,Age Group 1,2015,Estimated,3.455,4270023,viz_age,Percentage by BMI category,Total,45.63
+Percentage by BMI category,1.Underweight (<18.5),Age,Age Group 2,2015,Estimated,78.21,96659484,viz_age,Percentage by BMI category,Total,45.63
+Percentage by BMI category,1.Underweight (<18.5),Age,Age Group 3,2015,Estimated,16.01,19786707,viz_age,Percentage by BMI category,Total,45.63
+Percentage by BMI category,1.Underweight (<18.5),Age,Age Group 4,2015,Estimated,24.03,29698599,viz_age,Percentage by BMI category,Total,45.63
+Percentage by BMI category,1.Underweight (<18.5),Area,Urban,2015,Estimated,76.17,94138255,viz_area,Percentage by BMI category,Total,45.63
+Percentage by BMI category,1.Underweight (<18.5),Area,Rural,2015,Estimated,89.55,110674553,viz_area,Percentage by BMI category,Total,45.63
+Percentage by BMI category,1.Underweight (<18.5),Sex by Age,Women Age Group 1,2015,Estimated,69.02,85301593,viz_women_age,Percentage by BMI category,Women,14.14
+Percentage by BMI category,1.Underweight (<18.5),Sex by Age,Women Age Group 2,2015,Estimated,9.257,11440696,viz_women_age,Percentage by BMI category,Women,14.14
+Percentage by BMI category,1.Underweight (<18.5),Sex by Age,Women Age Group 3,2015,Estimated,45.63,56393968,viz_women_age,Percentage by BMI category,Women,14.14
+Percentage by BMI category,1.Underweight (<18.5),Sex by Age,Women Age Group 4,2015,Estimated,39.89,49299921,viz_women_age,Percentage by BMI category,Women,14.14
+Percentage by BMI category,1.Underweight (<18.5),Sex by Age,Men Age Group 1,2015,Estimated,14.14,17475580,viz_men_age,Percentage by BMI category,Men,39.89
+Percentage by BMI category,1.Underweight (<18.5),Sex by Age,Men Age Group 2,2015,Estimated,3.455,4270023,viz_men_age,Percentage by BMI category,Men,39.89
+Percentage by BMI category,1.Underweight (<18.5),Sex by Age,Men Age Group 3,2015,Estimated,78.21,96659484,viz_men_age,Percentage by BMI category,Men,39.89
+Percentage by BMI category,1.Underweight (<18.5),Sex by Age,Men Age Group 4,2015,Estimated,16.01,19786707,viz_men_age,Percentage by BMI category,Men,39.89
+Percentage by BMI category,1.Underweight (<18.5),Sex by Area,Urban Men,2015,Estimated,24.03,29698599,viz_sex_area,Percentage by BMI category,Men,39.89
+Percentage by BMI category,1.Underweight (<18.5),Sex by Area,Rural Men,2015,Estimated,76.17,94138255,viz_sex_area,Percentage by BMI category,Men,39.89
+Percentage by BMI category,1.Underweight (<18.5),Sex by Area,Urban Women,2015,Estimated,89.55,110674553,viz_sex_area,Percentage by BMI category,Women,14.14
+Percentage by BMI category,1.Underweight (<18.5),Sex by Area,Rural Women,2015,Estimated,69.02,85301593,viz_sex_area,Percentage by BMI category,Women,14.14
+Percentage by BMI category,1.Underweight (<18.5),Age by Area,Urban Age Group 1,2015,Estimated,9.257,11440696,viz_age_area,Percentage by BMI category,Urban,76.17
+Percentage by BMI category,1.Underweight (<18.5),Age by Area,Rural Age Group 1,2015,Estimated,45.63,56393968,viz_age_area,Percentage by BMI category,Rural,89.55
+Percentage by BMI category,1.Underweight (<18.5),Age by Area,Urban Age Group 2,2015,Estimated,39.89,49299921,viz_age_area,Percentage by BMI category,Urban,76.17
+Percentage by BMI category,1.Underweight (<18.5),Age by Area,Rural Age Group 2,2015,Estimated,14.14,17475580,viz_age_area,Percentage by BMI category,Rural,89.55
+Percentage by BMI category,1.Underweight (<18.5),Age by Area,Urban Age Group 3,2015,Estimated,3.455,4270023,viz_age_area,Percentage by BMI category,Urban,76.17
+Percentage by BMI category,1.Underweight (<18.5),Age by Area,Rural Age Group 3,2015,Estimated,78.21,96659484,viz_age_area,Percentage by BMI category,Rural,89.55
+Percentage by BMI category,1.Underweight (<18.5),Age by Area,Urban Age Group 4,2015,Estimated,16.01,19786707,viz_age_area,Percentage by BMI category,Urban,76.17
+Percentage by BMI category,1.Underweight (<18.5),Age by Area,Rural Age Group 4,2015,Estimated,24.03,29698599,viz_age_area,Percentage by BMI category,Rural,89.55
+Percentage by BMI category,1.Underweight (<18.5),Total,Total,2015,Lower Bound,76.17,94138255,,,"",
+Percentage by BMI category,1.Underweight (<18.5),Sex,Men,2015,Lower Bound,89.55,110674553,,,Total,76.17
+Percentage by BMI category,1.Underweight (<18.5),Sex,Women,2015,Lower Bound,69.02,85301593,,,Total,76.17
+Percentage by BMI category,1.Underweight (<18.5),Age,Age Group 1,2015,Lower Bound,9.257,11440696,,,Total,76.17
+Percentage by BMI category,1.Underweight (<18.5),Age,Age Group 2,2015,Lower Bound,45.63,56393968,,,Total,76.17
+Percentage by BMI category,1.Underweight (<18.5),Age,Age Group 3,2015,Lower Bound,39.89,49299921,,,Total,76.17
+Percentage by BMI category,1.Underweight (<18.5),Age,Age Group 4,2015,Lower Bound,14.14,17475580,,,Total,76.17
+Percentage by BMI category,1.Underweight (<18.5),Area,Urban,2015,Lower Bound,3.455,4270023,,,Total,76.17
+Percentage by BMI category,1.Underweight (<18.5),Area,Rural,2015,Lower Bound,78.21,96659484,,,Total,76.17
+Percentage by BMI category,1.Underweight (<18.5),Sex by Age,Women Age Group 1,2015,Lower Bound,16.01,19786707,,,Women,69.02
+Percentage by BMI category,1.Underweight (<18.5),Sex by Age,Women Age Group 2,2015,Lower Bound,24.03,29698599,,,Women,69.02
+Percentage by BMI category,1.Underweight (<18.5),Sex by Age,Women Age Group 3,2015,Lower Bound,76.17,94138255,,,Women,69.02
+Percentage by BMI category,1.Underweight (<18.5),Sex by Age,Women Age Group 4,2015,Lower Bound,89.55,110674553,,,Women,69.02
+Percentage by BMI category,1.Underweight (<18.5),Sex by Age,Men Age Group 1,2015,Lower Bound,69.02,85301593,,,Men,89.55
+Percentage by BMI category,1.Underweight (<18.5),Sex by Age,Men Age Group 2,2015,Lower Bound,9.257,11440696,,,Men,89.55
+Percentage by BMI category,1.Underweight (<18.5),Sex by Age,Men Age Group 3,2015,Lower Bound,45.63,56393968,,,Men,89.55
+Percentage by BMI category,1.Underweight (<18.5),Sex by Age,Men Age Group 4,2015,Lower Bound,39.89,49299921,,,Men,89.55
+Percentage by BMI category,1.Underweight (<18.5),Sex by Area,Urban Men,2015,Lower Bound,14.14,17475580,,,Men,89.55
+Percentage by BMI category,1.Underweight (<18.5),Sex by Area,Rural Men,2015,Lower Bound,3.455,4270023,,,Men,89.55
+Percentage by BMI category,1.Underweight (<18.5),Sex by Area,Urban Women,2015,Lower Bound,78.21,96659484,,,Women,69.02
+Percentage by BMI category,1.Underweight (<18.5),Sex by Area,Rural Women,2015,Lower Bound,16.01,19786707,,,Women,69.02
+Percentage by BMI category,1.Underweight (<18.5),Age by Area,Urban Age Group 1,2015,Lower Bound,24.03,29698599,,,Urban,3.455
+Percentage by BMI category,1.Underweight (<18.5),Age by Area,Rural Age Group 1,2015,Lower Bound,76.17,94138255,,,Rural,78.21
+Percentage by BMI category,1.Underweight (<18.5),Age by Area,Urban Age Group 2,2015,Lower Bound,89.55,110674553,,,Urban,3.455
+Percentage by BMI category,1.Underweight (<18.5),Age by Area,Rural Age Group 2,2015,Lower Bound,69.02,85301593,,,Rural,78.21
+Percentage by BMI category,1.Underweight (<18.5),Age by Area,Urban Age Group 3,2015,Lower Bound,9.257,11440696,,,Urban,3.455
+Percentage by BMI category,1.Underweight (<18.5),Age by Area,Rural Age Group 3,2015,Lower Bound,45.63,56393968,,,Rural,78.21
+Percentage by BMI category,1.Underweight (<18.5),Age by Area,Urban Age Group 4,2015,Lower Bound,39.89,49299921,,,Urban,3.455
+Percentage by BMI category,1.Underweight (<18.5),Age by Area,Rural Age Group 4,2015,Lower Bound,14.14,17475580,,,Rural,78.21
+Percentage by BMI category,1.Underweight (<18.5),Total,Total,2015,Upper Bound,3.455,4270023,,,"",
+Percentage by BMI category,1.Underweight (<18.5),Sex,Men,2015,Upper Bound,78.21,96659484,,,Total,3.455
+Percentage by BMI category,1.Underweight (<18.5),Sex,Women,2015,Upper Bound,16.01,19786707,,,Total,3.455
+Percentage by BMI category,1.Underweight (<18.5),Age,Age Group 1,2015,Upper Bound,24.03,29698599,,,Total,3.455
+Percentage by BMI category,1.Underweight (<18.5),Age,Age Group 2,2015,Upper Bound,76.17,94138255,,,Total,3.455
+Percentage by BMI category,1.Underweight (<18.5),Age,Age Group 3,2015,Upper Bound,89.55,110674553,,,Total,3.455
+Percentage by BMI category,1.Underweight (<18.5),Age,Age Group 4,2015,Upper Bound,69.02,85301593,,,Total,3.455
+Percentage by BMI category,1.Underweight (<18.5),Area,Urban,2015,Upper Bound,9.257,11440696,,,Total,3.455
+Percentage by BMI category,1.Underweight (<18.5),Area,Rural,2015,Upper Bound,45.63,56393968,,,Total,3.455
+Percentage by BMI category,1.Underweight (<18.5),Sex by Age,Women Age Group 1,2015,Upper Bound,39.89,49299921,,,Women,16.01
+Percentage by BMI category,1.Underweight (<18.5),Sex by Age,Women Age Group 2,2015,Upper Bound,14.14,17475580,,,Women,16.01
+Percentage by BMI category,1.Underweight (<18.5),Sex by Age,Women Age Group 3,2015,Upper Bound,3.455,4270023,,,Women,16.01
+Percentage by BMI category,1.Underweight (<18.5),Sex by Age,Women Age Group 4,2015,Upper Bound,78.21,96659484,,,Women,16.01
+Percentage by BMI category,1.Underweight (<18.5),Sex by Age,Men Age Group 1,2015,Upper Bound,16.01,19786707,,,Men,78.21
+Percentage by BMI category,1.Underweight (<18.5),Sex by Age,Men Age Group 2,2015,Upper Bound,24.03,29698599,,,Men,78.21
+Percentage by BMI category,1.Underweight (<18.5),Sex by Age,Men Age Group 3,2015,Upper Bound,76.17,94138255,,,Men,78.21
+Percentage by BMI category,1.Underweight (<18.5),Sex by Age,Men Age Group 4,2015,Upper Bound,89.55,110674553,,,Men,78.21
+Percentage by BMI category,1.Underweight (<18.5),Sex by Area,Urban Men,2015,Upper Bound,69.02,85301593,,,Men,78.21
+Percentage by BMI category,1.Underweight (<18.5),Sex by Area,Rural Men,2015,Upper Bound,9.257,11440696,,,Men,78.21
+Percentage by BMI category,1.Underweight (<18.5),Sex by Area,Urban Women,2015,Upper Bound,45.63,56393968,,,Women,16.01
+Percentage by BMI category,1.Underweight (<18.5),Sex by Area,Rural Women,2015,Upper Bound,39.89,49299921,,,Women,16.01
+Percentage by BMI category,1.Underweight (<18.5),Age by Area,Urban Age Group 1,2015,Upper Bound,14.14,17475580,,,Urban,9.257
+Percentage by BMI category,1.Underweight (<18.5),Age by Area,Rural Age Group 1,2015,Upper Bound,3.455,4270023,,,Rural,45.63
+Percentage by BMI category,1.Underweight (<18.5),Age by Area,Urban Age Group 2,2015,Upper Bound,78.21,96659484,,,Urban,9.257
+Percentage by BMI category,1.Underweight (<18.5),Age by Area,Rural Age Group 2,2015,Upper Bound,16.01,19786707,,,Rural,45.63
+Percentage by BMI category,1.Underweight (<18.5),Age by Area,Urban Age Group 3,2015,Upper Bound,24.03,29698599,,,Urban,9.257
+Percentage by BMI category,1.Underweight (<18.5),Age by Area,Rural Age Group 3,2015,Upper Bound,76.17,94138255,,,Rural,45.63
+Percentage by BMI category,1.Underweight (<18.5),Age by Area,Urban Age Group 4,2015,Upper Bound,89.55,110674553,,,Urban,9.257
+Percentage by BMI category,1.Underweight (<18.5),Age by Area,Rural Age Group 4,2015,Lower Bound,69.02,85301593,,,Rural,78.21
+Percentage by BMI category,2.Normal weight (18.5-24.9),Total,Total,2015,Estimated,9.257,11440696,viz_total,Percentage by BMI category,"",
+Percentage by BMI category,2.Normal weight (18.5-24.9),Sex,Men,2015,Estimated,45.63,56393968,viz_sex,Percentage by BMI category,Total,9.257
+Percentage by BMI category,2.Normal weight (18.5-24.9),Sex,Women,2015,Estimated,39.89,49299921,viz_sex,Percentage by BMI category,Total,9.257
+Percentage by BMI category,2.Normal weight (18.5-24.9),Age,Age Group 1,2015,Estimated,14.14,17475580,viz_age,Percentage by BMI category,Total,9.257
+Percentage by BMI category,2.Normal weight (18.5-24.9),Age,Age Group 2,2015,Estimated,3.455,4270023,viz_age,Percentage by BMI category,Total,9.257
+Percentage by BMI category,2.Normal weight (18.5-24.9),Age,Age Group 3,2015,Estimated,78.21,96659484,viz_age,Percentage by BMI category,Total,9.257
+Percentage by BMI category,2.Normal weight (18.5-24.9),Age,Age Group 4,2015,Estimated,16.01,19786707,viz_age,Percentage by BMI category,Total,9.257
+Percentage by BMI category,2.Normal weight (18.5-24.9),Area,Urban,2015,Estimated,24.03,29698599,viz_area,Percentage by BMI category,Total,9.257
+Percentage by BMI category,2.Normal weight (18.5-24.9),Area,Rural,2015,Estimated,76.17,94138255,viz_area,Percentage by BMI category,Total,9.257
+Percentage by BMI category,2.Normal weight (18.5-24.9),Sex by Age,Women Age Group 1,2015,Estimated,89.55,110674553,viz_women_age,Percentage by BMI category,Women,39.89
+Percentage by BMI category,2.Normal weight (18.5-24.9),Sex by Age,Women Age Group 2,2015,Estimated,69.02,85301593,viz_women_age,Percentage by BMI category,Women,39.89
+Percentage by BMI category,2.Normal weight (18.5-24.9),Sex by Age,Women Age Group 3,2015,Estimated,9.257,11440696,viz_women_age,Percentage by BMI category,Women,39.89
+Percentage by BMI category,2.Normal weight (18.5-24.9),Sex by Age,Women Age Group 4,2015,Estimated,45.63,56393968,viz_women_age,Percentage by BMI category,Women,39.89
+Percentage by BMI category,2.Normal weight (18.5-24.9),Sex by Age,Men Age Group 1,2015,Estimated,39.89,49299921,viz_men_age,Percentage by BMI category,Men,45.63
+Percentage by BMI category,2.Normal weight (18.5-24.9),Sex by Age,Men Age Group 2,2015,Estimated,14.14,17475580,viz_men_age,Percentage by BMI category,Men,45.63
+Percentage by BMI category,2.Normal weight (18.5-24.9),Sex by Age,Men Age Group 3,2015,Estimated,3.455,4270023,viz_men_age,Percentage by BMI category,Men,45.63
+Percentage by BMI category,2.Normal weight (18.5-24.9),Sex by Age,Men Age Group 4,2015,Estimated,78.21,96659484,viz_men_age,Percentage by BMI category,Men,45.63
+Percentage by BMI category,2.Normal weight (18.5-24.9),Sex by Area,Urban Men,2015,Estimated,16.01,19786707,viz_sex_area,Percentage by BMI category,Men,45.63
+Percentage by BMI category,2.Normal weight (18.5-24.9),Sex by Area,Rural Men,2015,Estimated,24.03,29698599,viz_sex_area,Percentage by BMI category,Men,45.63
+Percentage by BMI category,2.Normal weight (18.5-24.9),Sex by Area,Urban Women,2015,Estimated,76.17,94138255,viz_sex_area,Percentage by BMI category,Women,39.89
+Percentage by BMI category,2.Normal weight (18.5-24.9),Sex by Area,Rural Women,2015,Estimated,89.55,110674553,viz_sex_area,Percentage by BMI category,Women,39.89
+Percentage by BMI category,2.Normal weight (18.5-24.9),Age by Area,Urban Age Group 1,2015,Estimated,69.02,85301593,viz_age_area,Percentage by BMI category,Urban,24.03
+Percentage by BMI category,2.Normal weight (18.5-24.9),Age by Area,Rural Age Group 1,2015,Estimated,9.257,11440696,viz_age_area,Percentage by BMI category,Rural,76.17
+Percentage by BMI category,2.Normal weight (18.5-24.9),Age by Area,Urban Age Group 2,2015,Estimated,45.63,56393968,viz_age_area,Percentage by BMI category,Urban,24.03
+Percentage by BMI category,2.Normal weight (18.5-24.9),Age by Area,Rural Age Group 2,2015,Estimated,39.89,49299921,viz_age_area,Percentage by BMI category,Rural,76.17
+Percentage by BMI category,2.Normal weight (18.5-24.9),Age by Area,Urban Age Group 3,2015,Estimated,14.14,17475580,viz_age_area,Percentage by BMI category,Urban,24.03
+Percentage by BMI category,2.Normal weight (18.5-24.9),Age by Area,Rural Age Group 3,2015,Estimated,3.455,4270023,viz_age_area,Percentage by BMI category,Rural,76.17
+Percentage by BMI category,2.Normal weight (18.5-24.9),Age by Area,Urban Age Group 4,2015,Estimated,78.21,96659484,viz_age_area,Percentage by BMI category,Urban,24.03
+Percentage by BMI category,2.Normal weight (18.5-24.9),Age by Area,Rural Age Group 4,2015,Estimated,16.01,19786707,viz_age_area,Percentage by BMI category,Rural,76.17
+Percentage by BMI category,2.Normal weight (18.5-24.9),Total,Total,2015,Lower Bound,24.03,29698599,,,"",
+Percentage by BMI category,2.Normal weight (18.5-24.9),Sex,Men,2015,Lower Bound,76.17,94138255,,,Total,24.03
+Percentage by BMI category,2.Normal weight (18.5-24.9),Sex,Women,2015,Lower Bound,89.55,110674553,,,Total,24.03
+Percentage by BMI category,2.Normal weight (18.5-24.9),Age,Age Group 1,2015,Lower Bound,69.02,85301593,,,Total,24.03
+Percentage by BMI category,2.Normal weight (18.5-24.9),Age,Age Group 2,2015,Lower Bound,9.257,11440696,,,Total,24.03
+Percentage by BMI category,2.Normal weight (18.5-24.9),Age,Age Group 3,2015,Lower Bound,45.63,56393968,,,Total,24.03
+Percentage by BMI category,2.Normal weight (18.5-24.9),Age,Age Group 4,2015,Lower Bound,39.89,49299921,,,Total,24.03
+Percentage by BMI category,2.Normal weight (18.5-24.9),Area,Urban,2015,Lower Bound,14.14,17475580,,,Total,24.03
+Percentage by BMI category,2.Normal weight (18.5-24.9),Area,Rural,2015,Lower Bound,3.455,4270023,,,Total,24.03
+Percentage by BMI category,2.Normal weight (18.5-24.9),Sex by Age,Women Age Group 1,2015,Lower Bound,78.21,96659484,,,Women,89.55
+Percentage by BMI category,2.Normal weight (18.5-24.9),Sex by Age,Women Age Group 2,2015,Lower Bound,16.01,19786707,,,Women,89.55
+Percentage by BMI category,2.Normal weight (18.5-24.9),Sex by Age,Women Age Group 3,2015,Lower Bound,24.03,29698599,,,Women,89.55
+Percentage by BMI category,2.Normal weight (18.5-24.9),Sex by Age,Women Age Group 4,2015,Lower Bound,76.17,94138255,,,Women,89.55
+Percentage by BMI category,2.Normal weight (18.5-24.9),Sex by Age,Men Age Group 1,2015,Lower Bound,89.55,110674553,,,Men,76.17
+Percentage by BMI category,2.Normal weight (18.5-24.9),Sex by Age,Men Age Group 2,2015,Lower Bound,69.02,85301593,,,Men,76.17
+Percentage by BMI category,2.Normal weight (18.5-24.9),Sex by Age,Men Age Group 3,2015,Lower Bound,9.257,11440696,,,Men,76.17
+Percentage by BMI category,2.Normal weight (18.5-24.9),Sex by Age,Men Age Group 4,2015,Lower Bound,45.63,56393968,,,Men,76.17
+Percentage by BMI category,2.Normal weight (18.5-24.9),Sex by Area,Urban Men,2015,Lower Bound,39.89,49299921,,,Men,76.17
+Percentage by BMI category,2.Normal weight (18.5-24.9),Sex by Area,Rural Men,2015,Lower Bound,14.14,17475580,,,Men,76.17
+Percentage by BMI category,2.Normal weight (18.5-24.9),Sex by Area,Urban Women,2015,Lower Bound,3.455,4270023,,,Women,89.55
+Percentage by BMI category,2.Normal weight (18.5-24.9),Sex by Area,Rural Women,2015,Lower Bound,78.21,96659484,,,Women,89.55
+Percentage by BMI category,2.Normal weight (18.5-24.9),Age by Area,Urban Age Group 1,2015,Lower Bound,16.01,19786707,,,Urban,14.14
+Percentage by BMI category,2.Normal weight (18.5-24.9),Age by Area,Rural Age Group 1,2015,Lower Bound,24.03,29698599,,,Rural,3.455
+Percentage by BMI category,2.Normal weight (18.5-24.9),Age by Area,Urban Age Group 2,2015,Lower Bound,76.17,94138255,,,Urban,14.14
+Percentage by BMI category,2.Normal weight (18.5-24.9),Age by Area,Rural Age Group 2,2015,Lower Bound,89.55,110674553,,,Rural,3.455
+Percentage by BMI category,2.Normal weight (18.5-24.9),Age by Area,Urban Age Group 3,2015,Lower Bound,69.02,85301593,,,Urban,14.14
+Percentage by BMI category,2.Normal weight (18.5-24.9),Age by Area,Rural Age Group 3,2015,Lower Bound,9.257,11440696,,,Rural,3.455
+Percentage by BMI category,2.Normal weight (18.5-24.9),Age by Area,Urban Age Group 4,2015,Lower Bound,45.63,56393968,,,Urban,14.14
+Percentage by BMI category,2.Normal weight (18.5-24.9),Age by Area,Rural Age Group 4,2015,Lower Bound,39.89,49299921,,,Rural,3.455
+Percentage by BMI category,2.Normal weight (18.5-24.9),Total,Total,2015,Upper Bound,14.14,17475580,,,"",
+Percentage by BMI category,2.Normal weight (18.5-24.9),Sex,Men,2015,Upper Bound,3.455,4270023,,,Total,14.14
+Percentage by BMI category,2.Normal weight (18.5-24.9),Sex,Women,2015,Upper Bound,78.21,96659484,,,Total,14.14
+Percentage by BMI category,2.Normal weight (18.5-24.9),Age,Age Group 1,2015,Upper Bound,16.01,19786707,,,Total,14.14
+Percentage by BMI category,2.Normal weight (18.5-24.9),Age,Age Group 2,2015,Upper Bound,24.03,29698599,,,Total,14.14
+Percentage by BMI category,2.Normal weight (18.5-24.9),Age,Age Group 3,2015,Upper Bound,76.17,94138255,,,Total,14.14
+Percentage by BMI category,2.Normal weight (18.5-24.9),Age,Age Group 4,2015,Upper Bound,89.55,110674553,,,Total,14.14
+Percentage by BMI category,2.Normal weight (18.5-24.9),Area,Urban,2015,Upper Bound,69.02,85301593,,,Total,14.14
+Percentage by BMI category,2.Normal weight (18.5-24.9),Area,Rural,2015,Upper Bound,9.257,11440696,,,Total,14.14
+Percentage by BMI category,2.Normal weight (18.5-24.9),Sex by Age,Women Age Group 1,2015,Upper Bound,45.63,56393968,,,Women,78.21
+Percentage by BMI category,2.Normal weight (18.5-24.9),Sex by Age,Women Age Group 2,2015,Upper Bound,39.89,49299921,,,Women,78.21
+Percentage by BMI category,2.Normal weight (18.5-24.9),Sex by Age,Women Age Group 3,2015,Upper Bound,14.14,17475580,,,Women,78.21
+Percentage by BMI category,2.Normal weight (18.5-24.9),Sex by Age,Women Age Group 4,2015,Upper Bound,3.455,4270023,,,Women,78.21
+Percentage by BMI category,2.Normal weight (18.5-24.9),Sex by Age,Men Age Group 1,2015,Upper Bound,78.21,96659484,,,Men,3.455
+Percentage by BMI category,2.Normal weight (18.5-24.9),Sex by Age,Men Age Group 2,2015,Upper Bound,16.01,19786707,,,Men,3.455
+Percentage by BMI category,2.Normal weight (18.5-24.9),Sex by Age,Men Age Group 3,2015,Upper Bound,24.03,29698599,,,Men,3.455
+Percentage by BMI category,2.Normal weight (18.5-24.9),Sex by Age,Men Age Group 4,2015,Upper Bound,76.17,94138255,,,Men,3.455
+Percentage by BMI category,2.Normal weight (18.5-24.9),Sex by Area,Urban Men,2015,Upper Bound,89.55,110674553,,,Men,3.455
+Percentage by BMI category,2.Normal weight (18.5-24.9),Sex by Area,Rural Men,2015,Upper Bound,69.02,85301593,,,Men,3.455
+Percentage by BMI category,2.Normal weight (18.5-24.9),Sex by Area,Urban Women,2015,Upper Bound,9.257,11440696,,,Women,78.21
+Percentage by BMI category,2.Normal weight (18.5-24.9),Sex by Area,Rural Women,2015,Upper Bound,45.63,56393968,,,Women,78.21
+Percentage by BMI category,2.Normal weight (18.5-24.9),Age by Area,Urban Age Group 1,2015,Upper Bound,39.89,49299921,,,Urban,69.02
+Percentage by BMI category,2.Normal weight (18.5-24.9),Age by Area,Rural Age Group 1,2015,Upper Bound,14.14,17475580,,,Rural,9.257
+Percentage by BMI category,2.Normal weight (18.5-24.9),Age by Area,Urban Age Group 2,2015,Upper Bound,3.455,4270023,,,Urban,69.02
+Percentage by BMI category,2.Normal weight (18.5-24.9),Age by Area,Rural Age Group 2,2015,Upper Bound,78.21,96659484,,,Rural,9.257
+Percentage by BMI category,2.Normal weight (18.5-24.9),Age by Area,Urban Age Group 3,2015,Upper Bound,16.01,19786707,,,Urban,69.02
+Percentage by BMI category,2.Normal weight (18.5-24.9),Age by Area,Rural Age Group 3,2015,Upper Bound,24.03,29698599,,,Rural,9.257
+Percentage by BMI category,2.Normal weight (18.5-24.9),Age by Area,Urban Age Group 4,2015,Upper Bound,76.17,94138255,,,Urban,69.02
+Percentage by BMI category,2.Normal weight (18.5-24.9),Age by Area,Rural Age Group 4,2015,Lower Bound,89.55,110674553,,,Rural,3.455
+Percentage by BMI category,3.Overweight (25-59.9),Total,Total,2015,Estimated,69.02,85301593,viz_total,Percentage by BMI category,"",
+Percentage by BMI category,3.Overweight (25-59.9),Sex,Men,2015,Estimated,9.257,11440696,viz_sex,Percentage by BMI category,Total,69.02
+Percentage by BMI category,3.Overweight (25-59.9),Sex,Women,2015,Estimated,45.63,56393968,viz_sex,Percentage by BMI category,Total,69.02
+Percentage by BMI category,3.Overweight (25-59.9),Age,Age Group 1,2015,Estimated,39.89,49299921,viz_age,Percentage by BMI category,Total,69.02
+Percentage by BMI category,3.Overweight (25-59.9),Age,Age Group 2,2015,Estimated,14.14,17475580,viz_age,Percentage by BMI category,Total,69.02
+Percentage by BMI category,3.Overweight (25-59.9),Age,Age Group 3,2015,Estimated,3.455,4270023,viz_age,Percentage by BMI category,Total,69.02
+Percentage by BMI category,3.Overweight (25-59.9),Age,Age Group 4,2015,Estimated,78.21,96659484,viz_age,Percentage by BMI category,Total,69.02
+Percentage by BMI category,3.Overweight (25-59.9),Area,Urban,2015,Estimated,16.01,19786707,viz_area,Percentage by BMI category,Total,69.02
+Percentage by BMI category,3.Overweight (25-59.9),Area,Rural,2015,Estimated,24.03,29698599,viz_area,Percentage by BMI category,Total,69.02
+Percentage by BMI category,3.Overweight (25-59.9),Sex by Age,Women Age Group 1,2015,Estimated,76.17,94138255,viz_women_age,Percentage by BMI category,Women,45.63
+Percentage by BMI category,3.Overweight (25-59.9),Sex by Age,Women Age Group 2,2015,Estimated,89.55,110674553,viz_women_age,Percentage by BMI category,Women,45.63
+Percentage by BMI category,3.Overweight (25-59.9),Sex by Age,Women Age Group 3,2015,Estimated,69.02,85301593,viz_women_age,Percentage by BMI category,Women,45.63
+Percentage by BMI category,3.Overweight (25-59.9),Sex by Age,Women Age Group 4,2015,Estimated,9.257,11440696,viz_women_age,Percentage by BMI category,Women,45.63
+Percentage by BMI category,3.Overweight (25-59.9),Sex by Age,Men Age Group 1,2015,Estimated,45.63,56393968,viz_men_age,Percentage by BMI category,Men,9.257
+Percentage by BMI category,3.Overweight (25-59.9),Sex by Age,Men Age Group 2,2015,Estimated,39.89,49299921,viz_men_age,Percentage by BMI category,Men,9.257
+Percentage by BMI category,3.Overweight (25-59.9),Sex by Age,Men Age Group 3,2015,Estimated,14.14,17475580,viz_men_age,Percentage by BMI category,Men,9.257
+Percentage by BMI category,3.Overweight (25-59.9),Sex by Age,Men Age Group 4,2015,Estimated,3.455,4270023,viz_men_age,Percentage by BMI category,Men,9.257
+Percentage by BMI category,3.Overweight (25-59.9),Sex by Area,Urban Men,2015,Estimated,78.21,96659484,viz_sex_area,Percentage by BMI category,Men,9.257
+Percentage by BMI category,3.Overweight (25-59.9),Sex by Area,Rural Men,2015,Estimated,16.01,19786707,viz_sex_area,Percentage by BMI category,Men,9.257
+Percentage by BMI category,3.Overweight (25-59.9),Sex by Area,Urban Women,2015,Estimated,24.03,29698599,viz_sex_area,Percentage by BMI category,Women,45.63
+Percentage by BMI category,3.Overweight (25-59.9),Sex by Area,Rural Women,2015,Estimated,76.17,94138255,viz_sex_area,Percentage by BMI category,Women,45.63
+Percentage by BMI category,3.Overweight (25-59.9),Age by Area,Urban Age Group 1,2015,Estimated,89.55,110674553,viz_age_area,Percentage by BMI category,Urban,16.01
+Percentage by BMI category,3.Overweight (25-59.9),Age by Area,Rural Age Group 1,2015,Estimated,69.02,85301593,viz_age_area,Percentage by BMI category,Rural,24.03
+Percentage by BMI category,3.Overweight (25-59.9),Age by Area,Urban Age Group 2,2015,Estimated,9.257,11440696,viz_age_area,Percentage by BMI category,Urban,16.01
+Percentage by BMI category,3.Overweight (25-59.9),Age by Area,Rural Age Group 2,2015,Estimated,45.63,56393968,viz_age_area,Percentage by BMI category,Rural,24.03
+Percentage by BMI category,3.Overweight (25-59.9),Age by Area,Urban Age Group 3,2015,Estimated,39.89,49299921,viz_age_area,Percentage by BMI category,Urban,16.01
+Percentage by BMI category,3.Overweight (25-59.9),Age by Area,Rural Age Group 3,2015,Estimated,14.14,17475580,viz_age_area,Percentage by BMI category,Rural,24.03
+Percentage by BMI category,3.Overweight (25-59.9),Age by Area,Urban Age Group 4,2015,Estimated,3.455,4270023,viz_age_area,Percentage by BMI category,Urban,16.01
+Percentage by BMI category,3.Overweight (25-59.9),Age by Area,Rural Age Group 4,2015,Estimated,78.21,96659484,viz_age_area,Percentage by BMI category,Rural,24.03
+Percentage by BMI category,3.Overweight (25-59.9),Total,Total,2015,Lower Bound,16.01,19786707,,,"",
+Percentage by BMI category,3.Overweight (25-59.9),Sex,Men,2015,Lower Bound,24.03,29698599,,,Total,16.01
+Percentage by BMI category,3.Overweight (25-59.9),Sex,Women,2015,Lower Bound,76.17,94138255,,,Total,16.01
+Percentage by BMI category,3.Overweight (25-59.9),Age,Age Group 1,2015,Lower Bound,89.55,110674553,,,Total,16.01
+Percentage by BMI category,3.Overweight (25-59.9),Age,Age Group 2,2015,Lower Bound,69.02,85301593,,,Total,16.01
+Percentage by BMI category,3.Overweight (25-59.9),Age,Age Group 3,2015,Lower Bound,9.257,11440696,,,Total,16.01
+Percentage by BMI category,3.Overweight (25-59.9),Age,Age Group 4,2015,Lower Bound,45.63,56393968,,,Total,16.01
+Percentage by BMI category,3.Overweight (25-59.9),Area,Urban,2015,Lower Bound,39.89,49299921,,,Total,16.01
+Percentage by BMI category,3.Overweight (25-59.9),Area,Rural,2015,Lower Bound,14.14,17475580,,,Total,16.01
+Percentage by BMI category,3.Overweight (25-59.9),Sex by Age,Women Age Group 1,2015,Lower Bound,3.455,4270023,,,Women,76.17
+Percentage by BMI category,3.Overweight (25-59.9),Sex by Age,Women Age Group 2,2015,Lower Bound,78.21,96659484,,,Women,76.17
+Percentage by BMI category,3.Overweight (25-59.9),Sex by Age,Women Age Group 3,2015,Lower Bound,16.01,19786707,,,Women,76.17
+Percentage by BMI category,3.Overweight (25-59.9),Sex by Age,Women Age Group 4,2015,Lower Bound,24.03,29698599,,,Women,76.17
+Percentage by BMI category,3.Overweight (25-59.9),Sex by Age,Men Age Group 1,2015,Lower Bound,76.17,94138255,,,Men,24.03
+Percentage by BMI category,3.Overweight (25-59.9),Sex by Age,Men Age Group 2,2015,Lower Bound,89.55,110674553,,,Men,24.03
+Percentage by BMI category,3.Overweight (25-59.9),Sex by Age,Men Age Group 3,2015,Lower Bound,69.02,85301593,,,Men,24.03
+Percentage by BMI category,3.Overweight (25-59.9),Sex by Age,Men Age Group 4,2015,Lower Bound,9.257,11440696,,,Men,24.03
+Percentage by BMI category,3.Overweight (25-59.9),Sex by Area,Urban Men,2015,Lower Bound,45.63,56393968,,,Men,24.03
+Percentage by BMI category,3.Overweight (25-59.9),Sex by Area,Rural Men,2015,Lower Bound,39.89,49299921,,,Men,24.03
+Percentage by BMI category,3.Overweight (25-59.9),Sex by Area,Urban Women,2015,Lower Bound,14.14,17475580,,,Women,76.17
+Percentage by BMI category,3.Overweight (25-59.9),Sex by Area,Rural Women,2015,Lower Bound,3.455,4270023,,,Women,76.17
+Percentage by BMI category,3.Overweight (25-59.9),Age by Area,Urban Age Group 1,2015,Lower Bound,78.21,96659484,,,Urban,39.89
+Percentage by BMI category,3.Overweight (25-59.9),Age by Area,Rural Age Group 1,2015,Lower Bound,16.01,19786707,,,Rural,14.14
+Percentage by BMI category,3.Overweight (25-59.9),Age by Area,Urban Age Group 2,2015,Lower Bound,24.03,29698599,,,Urban,39.89
+Percentage by BMI category,3.Overweight (25-59.9),Age by Area,Rural Age Group 2,2015,Lower Bound,76.17,94138255,,,Rural,14.14
+Percentage by BMI category,3.Overweight (25-59.9),Age by Area,Urban Age Group 3,2015,Lower Bound,89.55,110674553,,,Urban,39.89
+Percentage by BMI category,3.Overweight (25-59.9),Age by Area,Rural Age Group 3,2015,Lower Bound,69.02,85301593,,,Rural,14.14
+Percentage by BMI category,3.Overweight (25-59.9),Age by Area,Urban Age Group 4,2015,Lower Bound,9.257,11440696,,,Urban,39.89
+Percentage by BMI category,3.Overweight (25-59.9),Age by Area,Rural Age Group 4,2015,Lower Bound,45.63,56393968,,,Rural,14.14
+Percentage by BMI category,3.Overweight (25-59.9),Total,Total,2015,Upper Bound,39.89,49299921,,,"",
+Percentage by BMI category,3.Overweight (25-59.9),Sex,Men,2015,Upper Bound,14.14,17475580,,,Total,39.89
+Percentage by BMI category,3.Overweight (25-59.9),Sex,Women,2015,Upper Bound,3.455,4270023,,,Total,39.89
+Percentage by BMI category,3.Overweight (25-59.9),Age,Age Group 1,2015,Upper Bound,78.21,96659484,,,Total,39.89
+Percentage by BMI category,3.Overweight (25-59.9),Age,Age Group 2,2015,Upper Bound,16.01,19786707,,,Total,39.89
+Percentage by BMI category,3.Overweight (25-59.9),Age,Age Group 3,2015,Upper Bound,24.03,29698599,,,Total,39.89
+Percentage by BMI category,3.Overweight (25-59.9),Age,Age Group 4,2015,Upper Bound,76.17,94138255,,,Total,39.89
+Percentage by BMI category,3.Overweight (25-59.9),Area,Urban,2015,Upper Bound,89.55,110674553,,,Total,39.89
+Percentage by BMI category,3.Overweight (25-59.9),Area,Rural,2015,Upper Bound,69.02,85301593,,,Total,39.89
+Percentage by BMI category,3.Overweight (25-59.9),Sex by Age,Women Age Group 1,2015,Upper Bound,9.257,11440696,,,Women,3.455
+Percentage by BMI category,3.Overweight (25-59.9),Sex by Age,Women Age Group 2,2015,Upper Bound,45.63,56393968,,,Women,3.455
+Percentage by BMI category,3.Overweight (25-59.9),Sex by Age,Women Age Group 3,2015,Upper Bound,39.89,49299921,,,Women,3.455
+Percentage by BMI category,3.Overweight (25-59.9),Sex by Age,Women Age Group 4,2015,Upper Bound,14.14,17475580,,,Women,3.455
+Percentage by BMI category,3.Overweight (25-59.9),Sex by Age,Men Age Group 1,2015,Upper Bound,3.455,4270023,,,Men,14.14
+Percentage by BMI category,3.Overweight (25-59.9),Sex by Age,Men Age Group 2,2015,Upper Bound,78.21,96659484,,,Men,14.14
+Percentage by BMI category,3.Overweight (25-59.9),Sex by Age,Men Age Group 3,2015,Upper Bound,16.01,19786707,,,Men,14.14
+Percentage by BMI category,3.Overweight (25-59.9),Sex by Age,Men Age Group 4,2015,Upper Bound,24.03,29698599,,,Men,14.14
+Percentage by BMI category,3.Overweight (25-59.9),Sex by Area,Urban Men,2015,Upper Bound,76.17,94138255,,,Men,14.14
+Percentage by BMI category,3.Overweight (25-59.9),Sex by Area,Rural Men,2015,Upper Bound,89.55,110674553,,,Men,14.14
+Percentage by BMI category,3.Overweight (25-59.9),Sex by Area,Urban Women,2015,Upper Bound,69.02,85301593,,,Women,3.455
+Percentage by BMI category,3.Overweight (25-59.9),Sex by Area,Rural Women,2015,Upper Bound,9.257,11440696,,,Women,3.455
+Percentage by BMI category,3.Overweight (25-59.9),Age by Area,Urban Age Group 1,2015,Upper Bound,45.63,56393968,,,Urban,89.55
+Percentage by BMI category,3.Overweight (25-59.9),Age by Area,Rural Age Group 1,2015,Upper Bound,39.89,49299921,,,Rural,69.02
+Percentage by BMI category,3.Overweight (25-59.9),Age by Area,Urban Age Group 2,2015,Upper Bound,14.14,17475580,,,Urban,89.55
+Percentage by BMI category,3.Overweight (25-59.9),Age by Area,Rural Age Group 2,2015,Upper Bound,3.455,4270023,,,Rural,69.02
+Percentage by BMI category,3.Overweight (25-59.9),Age by Area,Urban Age Group 3,2015,Upper Bound,78.21,96659484,,,Urban,89.55
+Percentage by BMI category,3.Overweight (25-59.9),Age by Area,Rural Age Group 3,2015,Upper Bound,16.01,19786707,,,Rural,69.02
+Percentage by BMI category,3.Overweight (25-59.9),Age by Area,Urban Age Group 4,2015,Upper Bound,24.03,29698599,,,Urban,89.55
+Percentage by BMI category,3.Overweight (25-59.9),Age by Area,Rural Age Group 4,2015,Lower Bound,76.17,94138255,,,Rural,14.14
+Percentage by BMI category,4.Obese (>=30),Total,Total,2015,Estimated,89.55,110674553,viz_total,Percentage by BMI category,"",
+Percentage by BMI category,4.Obese (>=30),Sex,Men,2015,Estimated,69.02,85301593,viz_sex,Percentage by BMI category,Total,89.55
+Percentage by BMI category,4.Obese (>=30),Sex,Women,2015,Estimated,9.257,11440696,viz_sex,Percentage by BMI category,Total,89.55
+Percentage by BMI category,4.Obese (>=30),Age,Age Group 1,2015,Estimated,45.63,56393968,viz_age,Percentage by BMI category,Total,89.55
+Percentage by BMI category,4.Obese (>=30),Age,Age Group 2,2015,Estimated,39.89,49299921,viz_age,Percentage by BMI category,Total,89.55
+Percentage by BMI category,4.Obese (>=30),Age,Age Group 3,2015,Estimated,14.14,17475580,viz_age,Percentage by BMI category,Total,89.55
+Percentage by BMI category,4.Obese (>=30),Age,Age Group 4,2015,Estimated,3.455,4270023,viz_age,Percentage by BMI category,Total,89.55
+Percentage by BMI category,4.Obese (>=30),Area,Urban,2015,Estimated,78.21,96659484,viz_area,Percentage by BMI category,Total,89.55
+Percentage by BMI category,4.Obese (>=30),Area,Rural,2015,Estimated,16.01,19786707,viz_area,Percentage by BMI category,Total,89.55
+Percentage by BMI category,4.Obese (>=30),Sex by Age,Women Age Group 1,2015,Estimated,24.03,29698599,viz_women_age,Percentage by BMI category,Women,9.257
+Percentage by BMI category,4.Obese (>=30),Sex by Age,Women Age Group 2,2015,Estimated,76.17,94138255,viz_women_age,Percentage by BMI category,Women,9.257
+Percentage by BMI category,4.Obese (>=30),Sex by Age,Women Age Group 3,2015,Estimated,89.55,110674553,viz_women_age,Percentage by BMI category,Women,9.257
+Percentage by BMI category,4.Obese (>=30),Sex by Age,Women Age Group 4,2015,Estimated,69.02,85301593,viz_women_age,Percentage by BMI category,Women,9.257
+Percentage by BMI category,4.Obese (>=30),Sex by Age,Men Age Group 1,2015,Estimated,9.257,11440696,viz_men_age,Percentage by BMI category,Men,69.02
+Percentage by BMI category,4.Obese (>=30),Sex by Age,Men Age Group 2,2015,Estimated,45.63,56393968,viz_men_age,Percentage by BMI category,Men,69.02
+Percentage by BMI category,4.Obese (>=30),Sex by Age,Men Age Group 3,2015,Estimated,39.89,49299921,viz_men_age,Percentage by BMI category,Men,69.02
+Percentage by BMI category,4.Obese (>=30),Sex by Age,Men Age Group 4,2015,Estimated,14.14,17475580,viz_men_age,Percentage by BMI category,Men,69.02
+Percentage by BMI category,4.Obese (>=30),Sex by Area,Urban Men,2015,Estimated,3.455,4270023,viz_sex_area,Percentage by BMI category,Men,69.02
+Percentage by BMI category,4.Obese (>=30),Sex by Area,Rural Men,2015,Estimated,78.21,96659484,viz_sex_area,Percentage by BMI category,Men,69.02
+Percentage by BMI category,4.Obese (>=30),Sex by Area,Urban Women,2015,Estimated,16.01,19786707,viz_sex_area,Percentage by BMI category,Women,9.257
+Percentage by BMI category,4.Obese (>=30),Sex by Area,Rural Women,2015,Estimated,24.03,29698599,viz_sex_area,Percentage by BMI category,Women,9.257
+Percentage by BMI category,4.Obese (>=30),Age by Area,Urban Age Group 1,2015,Estimated,76.17,94138255,viz_age_area,Percentage by BMI category,Urban,78.21
+Percentage by BMI category,4.Obese (>=30),Age by Area,Rural Age Group 1,2015,Estimated,89.55,110674553,viz_age_area,Percentage by BMI category,Rural,16.01
+Percentage by BMI category,4.Obese (>=30),Age by Area,Urban Age Group 2,2015,Estimated,69.02,85301593,viz_age_area,Percentage by BMI category,Urban,78.21
+Percentage by BMI category,4.Obese (>=30),Age by Area,Rural Age Group 2,2015,Estimated,9.257,11440696,viz_age_area,Percentage by BMI category,Rural,16.01
+Percentage by BMI category,4.Obese (>=30),Age by Area,Urban Age Group 3,2015,Estimated,45.63,56393968,viz_age_area,Percentage by BMI category,Urban,78.21
+Percentage by BMI category,4.Obese (>=30),Age by Area,Rural Age Group 3,2015,Estimated,39.89,49299921,viz_age_area,Percentage by BMI category,Rural,16.01
+Percentage by BMI category,4.Obese (>=30),Age by Area,Urban Age Group 4,2015,Estimated,14.14,17475580,viz_age_area,Percentage by BMI category,Urban,78.21
+Percentage by BMI category,4.Obese (>=30),Age by Area,Rural Age Group 4,2015,Estimated,3.455,4270023,viz_age_area,Percentage by BMI category,Rural,16.01
+Percentage by BMI category,4.Obese (>=30),Total,Total,2015,Lower Bound,78.21,96659484,,,"",
+Percentage by BMI category,4.Obese (>=30),Sex,Men,2015,Lower Bound,16.01,19786707,,,Total,78.21
+Percentage by BMI category,4.Obese (>=30),Sex,Women,2015,Lower Bound,24.03,29698599,,,Total,78.21
+Percentage by BMI category,4.Obese (>=30),Age,Age Group 1,2015,Lower Bound,76.17,94138255,,,Total,78.21
+Percentage by BMI category,4.Obese (>=30),Age,Age Group 2,2015,Lower Bound,89.55,110674553,,,Total,78.21
+Percentage by BMI category,4.Obese (>=30),Age,Age Group 3,2015,Lower Bound,69.02,85301593,,,Total,78.21
+Percentage by BMI category,4.Obese (>=30),Age,Age Group 4,2015,Lower Bound,9.257,11440696,,,Total,78.21
+Percentage by BMI category,4.Obese (>=30),Area,Urban,2015,Lower Bound,45.63,56393968,,,Total,78.21
+Percentage by BMI category,4.Obese (>=30),Area,Rural,2015,Lower Bound,39.89,49299921,,,Total,78.21
+Percentage by BMI category,4.Obese (>=30),Sex by Age,Women Age Group 1,2015,Lower Bound,14.14,17475580,,,Women,24.03
+Percentage by BMI category,4.Obese (>=30),Sex by Age,Women Age Group 2,2015,Lower Bound,3.455,4270023,,,Women,24.03
+Percentage by BMI category,4.Obese (>=30),Sex by Age,Women Age Group 3,2015,Lower Bound,78.21,96659484,,,Women,24.03
+Percentage by BMI category,4.Obese (>=30),Sex by Age,Women Age Group 4,2015,Lower Bound,16.01,19786707,,,Women,24.03
+Percentage by BMI category,4.Obese (>=30),Sex by Age,Men Age Group 1,2015,Lower Bound,24.03,29698599,,,Men,16.01
+Percentage by BMI category,4.Obese (>=30),Sex by Age,Men Age Group 2,2015,Lower Bound,76.17,94138255,,,Men,16.01
+Percentage by BMI category,4.Obese (>=30),Sex by Age,Men Age Group 3,2015,Lower Bound,89.55,110674553,,,Men,16.01
+Percentage by BMI category,4.Obese (>=30),Sex by Age,Men Age Group 4,2015,Lower Bound,69.02,85301593,,,Men,16.01
+Percentage by BMI category,4.Obese (>=30),Sex by Area,Urban Men,2015,Lower Bound,9.257,11440696,,,Men,16.01
+Percentage by BMI category,4.Obese (>=30),Sex by Area,Rural Men,2015,Lower Bound,45.63,56393968,,,Men,16.01
+Percentage by BMI category,4.Obese (>=30),Sex by Area,Urban Women,2015,Lower Bound,39.89,49299921,,,Women,24.03
+Percentage by BMI category,4.Obese (>=30),Sex by Area,Rural Women,2015,Lower Bound,14.14,17475580,,,Women,24.03
+Percentage by BMI category,4.Obese (>=30),Age by Area,Urban Age Group 1,2015,Lower Bound,3.455,4270023,,,Urban,45.63
+Percentage by BMI category,4.Obese (>=30),Age by Area,Rural Age Group 1,2015,Lower Bound,78.21,96659484,,,Rural,39.89
+Percentage by BMI category,4.Obese (>=30),Age by Area,Urban Age Group 2,2015,Lower Bound,16.01,19786707,,,Urban,45.63
+Percentage by BMI category,4.Obese (>=30),Age by Area,Rural Age Group 2,2015,Lower Bound,24.03,29698599,,,Rural,39.89
+Percentage by BMI category,4.Obese (>=30),Age by Area,Urban Age Group 3,2015,Lower Bound,76.17,94138255,,,Urban,45.63
+Percentage by BMI category,4.Obese (>=30),Age by Area,Rural Age Group 3,2015,Lower Bound,89.55,110674553,,,Rural,39.89
+Percentage by BMI category,4.Obese (>=30),Age by Area,Urban Age Group 4,2015,Lower Bound,69.02,85301593,,,Urban,45.63
+Percentage by BMI category,4.Obese (>=30),Age by Area,Rural Age Group 4,2015,Lower Bound,9.257,11440696,,,Rural,39.89
+Percentage by BMI category,4.Obese (>=30),Total,Total,2015,Upper Bound,45.63,56393968,,,"",
+Percentage by BMI category,4.Obese (>=30),Sex,Men,2015,Upper Bound,39.89,49299921,,,Total,45.63
+Percentage by BMI category,4.Obese (>=30),Sex,Women,2015,Upper Bound,14.14,17475580,,,Total,45.63
+Percentage by BMI category,4.Obese (>=30),Age,Age Group 1,2015,Upper Bound,3.455,4270023,,,Total,45.63
+Percentage by BMI category,4.Obese (>=30),Age,Age Group 2,2015,Upper Bound,78.21,96659484,,,Total,45.63
+Percentage by BMI category,4.Obese (>=30),Age,Age Group 3,2015,Upper Bound,16.01,19786707,,,Total,45.63
+Percentage by BMI category,4.Obese (>=30),Age,Age Group 4,2015,Upper Bound,24.03,29698599,,,Total,45.63
+Percentage by BMI category,4.Obese (>=30),Area,Urban,2015,Upper Bound,76.17,94138255,,,Total,45.63
+Percentage by BMI category,4.Obese (>=30),Area,Rural,2015,Upper Bound,89.55,110674553,,,Total,45.63
+Percentage by BMI category,4.Obese (>=30),Sex by Age,Women Age Group 1,2015,Upper Bound,69.02,85301593,,,Women,14.14
+Percentage by BMI category,4.Obese (>=30),Sex by Age,Women Age Group 2,2015,Upper Bound,9.257,11440696,,,Women,14.14
+Percentage by BMI category,4.Obese (>=30),Sex by Age,Women Age Group 3,2015,Upper Bound,45.63,56393968,,,Women,14.14
+Percentage by BMI category,4.Obese (>=30),Sex by Age,Women Age Group 4,2015,Upper Bound,39.89,49299921,,,Women,14.14
+Percentage by BMI category,4.Obese (>=30),Sex by Age,Men Age Group 1,2015,Upper Bound,14.14,17475580,,,Men,39.89
+Percentage by BMI category,4.Obese (>=30),Sex by Age,Men Age Group 2,2015,Upper Bound,3.455,4270023,,,Men,39.89
+Percentage by BMI category,4.Obese (>=30),Sex by Age,Men Age Group 3,2015,Upper Bound,78.21,96659484,,,Men,39.89
+Percentage by BMI category,4.Obese (>=30),Sex by Age,Men Age Group 4,2015,Upper Bound,16.01,19786707,,,Men,39.89
+Percentage by BMI category,4.Obese (>=30),Sex by Area,Urban Men,2015,Upper Bound,24.03,29698599,,,Men,39.89
+Percentage by BMI category,4.Obese (>=30),Sex by Area,Rural Men,2015,Upper Bound,76.17,94138255,,,Men,39.89
+Percentage by BMI category,4.Obese (>=30),Sex by Area,Urban Women,2015,Upper Bound,89.55,110674553,,,Women,14.14
+Percentage by BMI category,4.Obese (>=30),Sex by Area,Rural Women,2015,Upper Bound,69.02,85301593,,,Women,14.14
+Percentage by BMI category,4.Obese (>=30),Age by Area,Urban Age Group 1,2015,Upper Bound,9.257,11440696,,,Urban,76.17
+Percentage by BMI category,4.Obese (>=30),Age by Area,Rural Age Group 1,2015,Upper Bound,45.63,56393968,,,Rural,89.55
+Percentage by BMI category,4.Obese (>=30),Age by Area,Urban Age Group 2,2015,Upper Bound,39.89,49299921,,,Urban,76.17
+Percentage by BMI category,4.Obese (>=30),Age by Area,Rural Age Group 2,2015,Upper Bound,14.14,17475580,,,Rural,89.55
+Percentage by BMI category,4.Obese (>=30),Age by Area,Urban Age Group 3,2015,Upper Bound,3.455,4270023,,,Urban,76.17
+Percentage by BMI category,4.Obese (>=30),Age by Area,Rural Age Group 3,2015,Upper Bound,78.21,96659484,,,Rural,89.55
+Percentage by BMI category,4.Obese (>=30),Age by Area,Urban Age Group 4,2015,Upper Bound,16.01,19786707,,,Urban,76.17
+Percentage by BMI category,4.Obese (>=30),Age by Area,Rural Age Group 4,2015,Lower Bound,24.03,29698599,,,Rural,39.89
+Percentage with overweight or obesity,Overweight or obese,Total,Total,2015,Estimated,76.17,94138255,viz_total,Percentage with overweight or obesity,"",
+Percentage with overweight or obesity,Overweight or obese,Sex,Men,2015,Estimated,89.55,110674553,viz_sex,Percentage with overweight or obesity,Total,76.17
+Percentage with overweight or obesity,Overweight or obese,Sex,Women,2015,Estimated,69.02,85301593,viz_sex,Percentage with overweight or obesity,Total,76.17
+Percentage with overweight or obesity,Overweight or obese,Age,Age Group 1,2015,Estimated,9.257,11440696,viz_age,Percentage with overweight or obesity,Total,76.17
+Percentage with overweight or obesity,Overweight or obese,Age,Age Group 2,2015,Estimated,45.63,56393968,viz_age,Percentage with overweight or obesity,Total,76.17
+Percentage with overweight or obesity,Overweight or obese,Age,Age Group 3,2015,Estimated,39.89,49299921,viz_age,Percentage with overweight or obesity,Total,76.17
+Percentage with overweight or obesity,Overweight or obese,Age,Age Group 4,2015,Estimated,14.14,17475580,viz_age,Percentage with overweight or obesity,Total,76.17
+Percentage with overweight or obesity,Overweight or obese,Area,Urban,2015,Estimated,3.455,4270023,viz_area,Percentage with overweight or obesity,Total,76.17
+Percentage with overweight or obesity,Overweight or obese,Area,Rural,2015,Estimated,78.21,96659484,viz_area,Percentage with overweight or obesity,Total,76.17
+Percentage with overweight or obesity,Overweight or obese,Sex by Age,Women Age Group 1,2015,Estimated,16.01,19786707,viz_women_age,Percentage with overweight or obesity,Women,69.02
+Percentage with overweight or obesity,Overweight or obese,Sex by Age,Women Age Group 2,2015,Estimated,24.03,29698599,viz_women_age,Percentage with overweight or obesity,Women,69.02
+Percentage with overweight or obesity,Overweight or obese,Sex by Age,Women Age Group 3,2015,Estimated,76.17,94138255,viz_women_age,Percentage with overweight or obesity,Women,69.02
+Percentage with overweight or obesity,Overweight or obese,Sex by Age,Women Age Group 4,2015,Estimated,89.55,110674553,viz_women_age,Percentage with overweight or obesity,Women,69.02
+Percentage with overweight or obesity,Overweight or obese,Sex by Age,Men Age Group 1,2015,Estimated,69.02,85301593,viz_men_age,Percentage with overweight or obesity,Men,89.55
+Percentage with overweight or obesity,Overweight or obese,Sex by Age,Men Age Group 2,2015,Estimated,9.257,11440696,viz_men_age,Percentage with overweight or obesity,Men,89.55
+Percentage with overweight or obesity,Overweight or obese,Sex by Age,Men Age Group 3,2015,Estimated,45.63,56393968,viz_men_age,Percentage with overweight or obesity,Men,89.55
+Percentage with overweight or obesity,Overweight or obese,Sex by Age,Men Age Group 4,2015,Estimated,39.89,49299921,viz_men_age,Percentage with overweight or obesity,Men,89.55
+Percentage with overweight or obesity,Overweight or obese,Sex by Area,Urban Men,2015,Estimated,14.14,17475580,viz_sex_area,Percentage with overweight or obesity,Men,89.55
+Percentage with overweight or obesity,Overweight or obese,Sex by Area,Rural Men,2015,Estimated,3.455,4270023,viz_sex_area,Percentage with overweight or obesity,Men,89.55
+Percentage with overweight or obesity,Overweight or obese,Sex by Area,Urban Women,2015,Estimated,78.21,96659484,viz_sex_area,Percentage with overweight or obesity,Women,69.02
+Percentage with overweight or obesity,Overweight or obese,Sex by Area,Rural Women,2015,Estimated,16.01,19786707,viz_sex_area,Percentage with overweight or obesity,Women,69.02
+Percentage with overweight or obesity,Overweight or obese,Age by Area,Urban Age Group 1,2015,Estimated,24.03,29698599,viz_age_area,Percentage with overweight or obesity,Urban,3.455
+Percentage with overweight or obesity,Overweight or obese,Age by Area,Rural Age Group 1,2015,Estimated,76.17,94138255,viz_age_area,Percentage with overweight or obesity,Rural,78.21
+Percentage with overweight or obesity,Overweight or obese,Age by Area,Urban Age Group 2,2015,Estimated,89.55,110674553,viz_age_area,Percentage with overweight or obesity,Urban,3.455
+Percentage with overweight or obesity,Overweight or obese,Age by Area,Rural Age Group 2,2015,Estimated,69.02,85301593,viz_age_area,Percentage with overweight or obesity,Rural,78.21
+Percentage with overweight or obesity,Overweight or obese,Age by Area,Urban Age Group 3,2015,Estimated,9.257,11440696,viz_age_area,Percentage with overweight or obesity,Urban,3.455
+Percentage with overweight or obesity,Overweight or obese,Age by Area,Rural Age Group 3,2015,Estimated,45.63,56393968,viz_age_area,Percentage with overweight or obesity,Rural,78.21
+Percentage with overweight or obesity,Overweight or obese,Age by Area,Urban Age Group 4,2015,Estimated,39.89,49299921,viz_age_area,Percentage with overweight or obesity,Urban,3.455
+Percentage with overweight or obesity,Overweight or obese,Age by Area,Rural Age Group 4,2015,Estimated,14.14,17475580,viz_age_area,Percentage with overweight or obesity,Rural,78.21
+Percentage with overweight or obesity,Overweight or obese,Total,Total,2015,Lower Bound,3.455,4270023,,,"",
+Percentage with overweight or obesity,Overweight or obese,Sex,Men,2015,Lower Bound,78.21,96659484,,,Total,3.455
+Percentage with overweight or obesity,Overweight or obese,Sex,Women,2015,Lower Bound,16.01,19786707,,,Total,3.455
+Percentage with overweight or obesity,Overweight or obese,Age,Age Group 1,2015,Lower Bound,24.03,29698599,,,Total,3.455
+Percentage with overweight or obesity,Overweight or obese,Age,Age Group 2,2015,Lower Bound,76.17,94138255,,,Total,3.455
+Percentage with overweight or obesity,Overweight or obese,Age,Age Group 3,2015,Lower Bound,89.55,110674553,,,Total,3.455
+Percentage with overweight or obesity,Overweight or obese,Age,Age Group 4,2015,Lower Bound,69.02,85301593,,,Total,3.455
+Percentage with overweight or obesity,Overweight or obese,Area,Urban,2015,Lower Bound,9.257,11440696,,,Total,3.455
+Percentage with overweight or obesity,Overweight or obese,Area,Rural,2015,Lower Bound,45.63,56393968,,,Total,3.455
+Percentage with overweight or obesity,Overweight or obese,Sex by Age,Women Age Group 1,2015,Lower Bound,39.89,49299921,,,Women,16.01
+Percentage with overweight or obesity,Overweight or obese,Sex by Age,Women Age Group 2,2015,Lower Bound,14.14,17475580,,,Women,16.01
+Percentage with overweight or obesity,Overweight or obese,Sex by Age,Women Age Group 3,2015,Lower Bound,3.455,4270023,,,Women,16.01
+Percentage with overweight or obesity,Overweight or obese,Sex by Age,Women Age Group 4,2015,Lower Bound,78.21,96659484,,,Women,16.01
+Percentage with overweight or obesity,Overweight or obese,Sex by Age,Men Age Group 1,2015,Lower Bound,16.01,19786707,,,Men,78.21
+Percentage with overweight or obesity,Overweight or obese,Sex by Age,Men Age Group 2,2015,Lower Bound,24.03,29698599,,,Men,78.21
+Percentage with overweight or obesity,Overweight or obese,Sex by Age,Men Age Group 3,2015,Lower Bound,76.17,94138255,,,Men,78.21
+Percentage with overweight or obesity,Overweight or obese,Sex by Age,Men Age Group 4,2015,Lower Bound,89.55,110674553,,,Men,78.21
+Percentage with overweight or obesity,Overweight or obese,Sex by Area,Urban Men,2015,Lower Bound,69.02,85301593,,,Men,78.21
+Percentage with overweight or obesity,Overweight or obese,Sex by Area,Rural Men,2015,Lower Bound,9.257,11440696,,,Men,78.21
+Percentage with overweight or obesity,Overweight or obese,Sex by Area,Urban Women,2015,Lower Bound,45.63,56393968,,,Women,16.01
+Percentage with overweight or obesity,Overweight or obese,Sex by Area,Rural Women,2015,Lower Bound,39.89,49299921,,,Women,16.01
+Percentage with overweight or obesity,Overweight or obese,Age by Area,Urban Age Group 1,2015,Lower Bound,14.14,17475580,,,Urban,9.257
+Percentage with overweight or obesity,Overweight or obese,Age by Area,Rural Age Group 1,2015,Lower Bound,3.455,4270023,,,Rural,45.63
+Percentage with overweight or obesity,Overweight or obese,Age by Area,Urban Age Group 2,2015,Lower Bound,78.21,96659484,,,Urban,9.257
+Percentage with overweight or obesity,Overweight or obese,Age by Area,Rural Age Group 2,2015,Lower Bound,16.01,19786707,,,Rural,45.63
+Percentage with overweight or obesity,Overweight or obese,Age by Area,Urban Age Group 3,2015,Lower Bound,24.03,29698599,,,Urban,9.257
+Percentage with overweight or obesity,Overweight or obese,Age by Area,Rural Age Group 3,2015,Lower Bound,76.17,94138255,,,Rural,45.63
+Percentage with overweight or obesity,Overweight or obese,Age by Area,Urban Age Group 4,2015,Lower Bound,89.55,110674553,,,Urban,9.257
+Percentage with overweight or obesity,Overweight or obese,Age by Area,Rural Age Group 4,2015,Lower Bound,69.02,85301593,,,Rural,45.63
+Percentage with overweight or obesity,Overweight or obese,Total,Total,2015,Upper Bound,9.257,11440696,,,"",
+Percentage with overweight or obesity,Overweight or obese,Sex,Men,2015,Upper Bound,45.63,56393968,,,Total,9.257
+Percentage with overweight or obesity,Overweight or obese,Sex,Women,2015,Upper Bound,39.89,49299921,,,Total,9.257
+Percentage with overweight or obesity,Overweight or obese,Age,Age Group 1,2015,Upper Bound,14.14,17475580,,,Total,9.257
+Percentage with overweight or obesity,Overweight or obese,Age,Age Group 2,2015,Upper Bound,3.455,4270023,,,Total,9.257
+Percentage with overweight or obesity,Overweight or obese,Age,Age Group 3,2015,Upper Bound,78.21,96659484,,,Total,9.257
+Percentage with overweight or obesity,Overweight or obese,Age,Age Group 4,2015,Upper Bound,16.01,19786707,,,Total,9.257
+Percentage with overweight or obesity,Overweight or obese,Area,Urban,2015,Upper Bound,24.03,29698599,,,Total,9.257
+Percentage with overweight or obesity,Overweight or obese,Area,Rural,2015,Upper Bound,76.17,94138255,,,Total,9.257
+Percentage with overweight or obesity,Overweight or obese,Sex by Age,Women Age Group 1,2015,Upper Bound,89.55,110674553,,,Women,39.89
+Percentage with overweight or obesity,Overweight or obese,Sex by Age,Women Age Group 2,2015,Upper Bound,69.02,85301593,,,Women,39.89
+Percentage with overweight or obesity,Overweight or obese,Sex by Age,Women Age Group 3,2015,Upper Bound,9.257,11440696,,,Women,39.89
+Percentage with overweight or obesity,Overweight or obese,Sex by Age,Women Age Group 4,2015,Upper Bound,45.63,56393968,,,Women,39.89
+Percentage with overweight or obesity,Overweight or obese,Sex by Age,Men Age Group 1,2015,Upper Bound,39.89,49299921,,,Men,45.63
+Percentage with overweight or obesity,Overweight or obese,Sex by Age,Men Age Group 2,2015,Upper Bound,14.14,17475580,,,Men,45.63
+Percentage with overweight or obesity,Overweight or obese,Sex by Age,Men Age Group 3,2015,Upper Bound,3.455,4270023,,,Men,45.63
+Percentage with overweight or obesity,Overweight or obese,Sex by Age,Men Age Group 4,2015,Upper Bound,78.21,96659484,,,Men,45.63
+Percentage with overweight or obesity,Overweight or obese,Sex by Area,Urban Men,2015,Upper Bound,16.01,19786707,,,Men,45.63
+Percentage with overweight or obesity,Overweight or obese,Sex by Area,Rural Men,2015,Upper Bound,24.03,29698599,,,Men,45.63
+Percentage with overweight or obesity,Overweight or obese,Sex by Area,Urban Women,2015,Upper Bound,76.17,94138255,,,Women,39.89
+Percentage with overweight or obesity,Overweight or obese,Sex by Area,Rural Women,2015,Upper Bound,89.55,110674553,,,Women,39.89
+Percentage with overweight or obesity,Overweight or obese,Age by Area,Urban Age Group 1,2015,Upper Bound,69.02,85301593,,,Urban,24.03
+Percentage with overweight or obesity,Overweight or obese,Age by Area,Rural Age Group 1,2015,Upper Bound,9.257,11440696,,,Rural,76.17
+Percentage with overweight or obesity,Overweight or obese,Age by Area,Urban Age Group 2,2015,Upper Bound,45.63,56393968,,,Urban,24.03
+Percentage with overweight or obesity,Overweight or obese,Age by Area,Rural Age Group 2,2015,Upper Bound,39.89,49299921,,,Rural,76.17
+Percentage with overweight or obesity,Overweight or obese,Age by Area,Urban Age Group 3,2015,Upper Bound,14.14,17475580,,,Urban,24.03
+Percentage with overweight or obesity,Overweight or obese,Age by Area,Rural Age Group 3,2015,Upper Bound,3.455,4270023,,,Rural,76.17
+Percentage with overweight or obesity,Overweight or obese,Age by Area,Urban Age Group 4,2015,Upper Bound,78.21,96659484,,,Urban,24.03
+Percentage with overweight or obesity,Overweight or obese,Age by Area,Rural Age Group 4,2015,Lower Bound,16.01,19786707,,,Rural,45.63
+Average height (cm),Average height,Total,Total,2015,Estimated,9.906,,viz_total,Average height (cm),"",
+Average height (cm),Average height,Sex,Men,2015,Estimated,2.864,,viz_sex,Average height (cm),Total,9.906
+Average height (cm),Average height,Sex,Women,2015,Estimated,1.153,,viz_sex,Average height (cm),Total,9.906
+Average height (cm),Average height,Age,Age Group 1,2015,Estimated,5.706,,viz_age,Average height (cm),Total,9.906
+Average height (cm),Average height,Age,Age Group 2,2015,Estimated,1.063,,viz_age,Average height (cm),Total,9.906
+Average height (cm),Average height,Age,Age Group 3,2015,Estimated,3.267,,viz_age,Average height (cm),Total,9.906
+Average height (cm),Average height,Age,Age Group 4,2015,Estimated,10.09,,viz_age,Average height (cm),Total,9.906
+Average height (cm),Average height,Area,Urban,2015,Estimated,5.257,,viz_area,Average height (cm),Total,9.906
+Average height (cm),Average height,Area,Rural,2015,Estimated,1.591,,viz_area,Average height (cm),Total,9.906
+Average height (cm),Average height,Sex by Age,Women Age Group 1,2015,Estimated,4.105,,viz_women_age,Average height (cm),Women,1.153
+Average height (cm),Average height,Sex by Age,Women Age Group 2,2015,Estimated,12.35,,viz_women_age,Average height (cm),Women,1.153
+Average height (cm),Average height,Sex by Age,Women Age Group 3,2015,Estimated,9.906,,viz_women_age,Average height (cm),Women,1.153
+Average height (cm),Average height,Sex by Age,Women Age Group 4,2015,Estimated,2.864,,viz_women_age,Average height (cm),Women,1.153
+Average height (cm),Average height,Sex by Age,Men Age Group 1,2015,Estimated,1.153,,viz_men_age,Average height (cm),Men,2.864
+Average height (cm),Average height,Sex by Age,Men Age Group 2,2015,Estimated,5.706,,viz_men_age,Average height (cm),Men,2.864
+Average height (cm),Average height,Sex by Age,Men Age Group 3,2015,Estimated,1.063,,viz_men_age,Average height (cm),Men,2.864
+Average height (cm),Average height,Sex by Age,Men Age Group 4,2015,Estimated,3.267,,viz_men_age,Average height (cm),Men,2.864
+Average height (cm),Average height,Sex by Area,Urban Men,2015,Estimated,10.09,,viz_sex_area,Average height (cm),Men,2.864
+Average height (cm),Average height,Sex by Area,Rural Men,2015,Estimated,5.257,,viz_sex_area,Average height (cm),Men,2.864
+Average height (cm),Average height,Sex by Area,Urban Women,2015,Estimated,1.591,,viz_sex_area,Average height (cm),Women,1.153
+Average height (cm),Average height,Sex by Area,Rural Women,2015,Estimated,4.105,,viz_sex_area,Average height (cm),Women,1.153
+Average height (cm),Average height,Age by Area,Urban Age Group 1,2015,Estimated,12.35,,viz_age_area,Average height (cm),Urban,5.257
+Average height (cm),Average height,Age by Area,Rural Age Group 1,2015,Estimated,9.906,,viz_age_area,Average height (cm),Rural,1.591
+Average height (cm),Average height,Age by Area,Urban Age Group 2,2015,Estimated,2.864,,viz_age_area,Average height (cm),Urban,5.257
+Average height (cm),Average height,Age by Area,Rural Age Group 2,2015,Estimated,1.153,,viz_age_area,Average height (cm),Rural,1.591
+Average height (cm),Average height,Age by Area,Urban Age Group 3,2015,Estimated,5.706,,viz_age_area,Average height (cm),Urban,5.257
+Average height (cm),Average height,Age by Area,Rural Age Group 3,2015,Estimated,1.063,,viz_age_area,Average height (cm),Rural,1.591
+Average height (cm),Average height,Age by Area,Urban Age Group 4,2015,Estimated,3.267,,viz_age_area,Average height (cm),Urban,5.257
+Average height (cm),Average height,Age by Area,Rural Age Group 4,2015,Estimated,10.09,,viz_age_area,Average height (cm),Rural,1.591
+Average height (cm),Average height,Total,Total,2015,Lower Bound,5.257,,,,"",
+Average height (cm),Average height,Sex,Men,2015,Lower Bound,1.591,,,,Total,5.257
+Average height (cm),Average height,Sex,Women,2015,Lower Bound,4.105,,,,Total,5.257
+Average height (cm),Average height,Age,Age Group 1,2015,Lower Bound,12.35,,,,Total,5.257
+Average height (cm),Average height,Age,Age Group 2,2015,Lower Bound,9.906,,,,Total,5.257
+Average height (cm),Average height,Age,Age Group 3,2015,Lower Bound,2.864,,,,Total,5.257
+Average height (cm),Average height,Age,Age Group 4,2015,Lower Bound,1.153,,,,Total,5.257
+Average height (cm),Average height,Area,Urban,2015,Lower Bound,5.706,,,,Total,5.257
+Average height (cm),Average height,Area,Rural,2015,Lower Bound,1.063,,,,Total,5.257
+Average height (cm),Average height,Sex by Age,Women Age Group 1,2015,Lower Bound,3.267,,,,Women,4.105
+Average height (cm),Average height,Sex by Age,Women Age Group 2,2015,Lower Bound,10.09,,,,Women,4.105
+Average height (cm),Average height,Sex by Age,Women Age Group 3,2015,Lower Bound,5.257,,,,Women,4.105
+Average height (cm),Average height,Sex by Age,Women Age Group 4,2015,Lower Bound,1.591,,,,Women,4.105
+Average height (cm),Average height,Sex by Age,Men Age Group 1,2015,Lower Bound,4.105,,,,Men,1.591
+Average height (cm),Average height,Sex by Age,Men Age Group 2,2015,Lower Bound,12.35,,,,Men,1.591
+Average height (cm),Average height,Sex by Age,Men Age Group 3,2015,Lower Bound,9.906,,,,Men,1.591
+Average height (cm),Average height,Sex by Age,Men Age Group 4,2015,Lower Bound,2.864,,,,Men,1.591
+Average height (cm),Average height,Sex by Area,Urban Men,2015,Lower Bound,1.153,,,,Men,1.591
+Average height (cm),Average height,Sex by Area,Rural Men,2015,Lower Bound,5.706,,,,Men,1.591
+Average height (cm),Average height,Sex by Area,Urban Women,2015,Lower Bound,1.063,,,,Women,4.105
+Average height (cm),Average height,Sex by Area,Rural Women,2015,Lower Bound,3.267,,,,Women,4.105
+Average height (cm),Average height,Age by Area,Urban Age Group 1,2015,Lower Bound,10.09,,,,Urban,5.706
+Average height (cm),Average height,Age by Area,Rural Age Group 1,2015,Lower Bound,5.257,,,,Rural,1.063
+Average height (cm),Average height,Age by Area,Urban Age Group 2,2015,Lower Bound,1.591,,,,Urban,5.706
+Average height (cm),Average height,Age by Area,Rural Age Group 2,2015,Lower Bound,4.105,,,,Rural,1.063
+Average height (cm),Average height,Age by Area,Urban Age Group 3,2015,Lower Bound,12.35,,,,Urban,5.706
+Average height (cm),Average height,Age by Area,Rural Age Group 3,2015,Lower Bound,9.906,,,,Rural,1.063
+Average height (cm),Average height,Age by Area,Urban Age Group 4,2015,Lower Bound,2.864,,,,Urban,5.706
+Average height (cm),Average height,Age by Area,Rural Age Group 4,2015,Lower Bound,1.153,,,,Rural,1.063
+Average height (cm),Average height,Total,Total,2015,Upper Bound,5.706,,,,"",
+Average height (cm),Average height,Sex,Men,2015,Upper Bound,1.063,,,,Total,5.706
+Average height (cm),Average height,Sex,Women,2015,Upper Bound,3.267,,,,Total,5.706
+Average height (cm),Average height,Age,Age Group 1,2015,Upper Bound,10.09,,,,Total,5.706
+Average height (cm),Average height,Age,Age Group 2,2015,Upper Bound,5.257,,,,Total,5.706
+Average height (cm),Average height,Age,Age Group 3,2015,Upper Bound,1.591,,,,Total,5.706
+Average height (cm),Average height,Age,Age Group 4,2015,Upper Bound,4.105,,,,Total,5.706
+Average height (cm),Average height,Area,Urban,2015,Upper Bound,12.35,,,,Total,5.706
+Average height (cm),Average height,Area,Rural,2015,Upper Bound,9.906,,,,Total,5.706
+Average height (cm),Average height,Sex by Age,Women Age Group 1,2015,Upper Bound,2.864,,,,Women,3.267
+Average height (cm),Average height,Sex by Age,Women Age Group 2,2015,Upper Bound,1.153,,,,Women,3.267
+Average height (cm),Average height,Sex by Age,Women Age Group 3,2015,Upper Bound,5.706,,,,Women,3.267
+Average height (cm),Average height,Sex by Age,Women Age Group 4,2015,Upper Bound,1.063,,,,Women,3.267
+Average height (cm),Average height,Sex by Age,Men Age Group 1,2015,Upper Bound,3.267,,,,Men,1.063
+Average height (cm),Average height,Sex by Age,Men Age Group 2,2015,Upper Bound,10.09,,,,Men,1.063
+Average height (cm),Average height,Sex by Age,Men Age Group 3,2015,Upper Bound,5.257,,,,Men,1.063
+Average height (cm),Average height,Sex by Age,Men Age Group 4,2015,Upper Bound,1.591,,,,Men,1.063
+Average height (cm),Average height,Sex by Area,Urban Men,2015,Upper Bound,4.105,,,,Men,1.063
+Average height (cm),Average height,Sex by Area,Rural Men,2015,Upper Bound,12.35,,,,Men,1.063
+Average height (cm),Average height,Sex by Area,Urban Women,2015,Upper Bound,9.906,,,,Women,3.267
+Average height (cm),Average height,Sex by Area,Rural Women,2015,Upper Bound,2.864,,,,Women,3.267
+Average height (cm),Average height,Age by Area,Urban Age Group 1,2015,Upper Bound,1.153,,,,Urban,12.35
+Average height (cm),Average height,Age by Area,Rural Age Group 1,2015,Upper Bound,5.706,,,,Rural,9.906
+Average height (cm),Average height,Age by Area,Urban Age Group 2,2015,Upper Bound,1.063,,,,Urban,12.35
+Average height (cm),Average height,Age by Area,Rural Age Group 2,2015,Upper Bound,3.267,,,,Rural,9.906
+Average height (cm),Average height,Age by Area,Urban Age Group 3,2015,Upper Bound,10.09,,,,Urban,12.35
+Average height (cm),Average height,Age by Area,Rural Age Group 3,2015,Upper Bound,5.257,,,,Rural,9.906
+Average height (cm),Average height,Age by Area,Urban Age Group 4,2015,Upper Bound,1.591,,,,Urban,12.35
+Average height (cm),Average height,Age by Area,Rural Age Group 4,2015,Lower Bound,4.105,,,,Rural,1.063
+Average weight (kg),Average weight,Total,Total,2015,Estimated,12.35,,viz_total,Average weight (kg),"",
+Average weight (kg),Average weight,Sex,Men,2015,Estimated,9.906,,viz_sex,Average weight (kg),Total,12.35
+Average weight (kg),Average weight,Sex,Women,2015,Estimated,2.864,,viz_sex,Average weight (kg),Total,12.35
+Average weight (kg),Average weight,Age,Age Group 1,2015,Estimated,1.153,,viz_age,Average weight (kg),Total,12.35
+Average weight (kg),Average weight,Age,Age Group 2,2015,Estimated,5.706,,viz_age,Average weight (kg),Total,12.35
+Average weight (kg),Average weight,Age,Age Group 3,2015,Estimated,1.063,,viz_age,Average weight (kg),Total,12.35
+Average weight (kg),Average weight,Age,Age Group 4,2015,Estimated,3.267,,viz_age,Average weight (kg),Total,12.35
+Average weight (kg),Average weight,Area,Urban,2015,Estimated,10.09,,viz_area,Average weight (kg),Total,12.35
+Average weight (kg),Average weight,Area,Rural,2015,Estimated,5.257,,viz_area,Average weight (kg),Total,12.35
+Average weight (kg),Average weight,Sex by Age,Women Age Group 1,2015,Estimated,1.591,,viz_women_age,Average weight (kg),Women,2.864
+Average weight (kg),Average weight,Sex by Age,Women Age Group 2,2015,Estimated,4.105,,viz_women_age,Average weight (kg),Women,2.864
+Average weight (kg),Average weight,Sex by Age,Women Age Group 3,2015,Estimated,12.35,,viz_women_age,Average weight (kg),Women,2.864
+Average weight (kg),Average weight,Sex by Age,Women Age Group 4,2015,Estimated,9.906,,viz_women_age,Average weight (kg),Women,2.864
+Average weight (kg),Average weight,Sex by Age,Men Age Group 1,2015,Estimated,2.864,,viz_men_age,Average weight (kg),Men,9.906
+Average weight (kg),Average weight,Sex by Age,Men Age Group 2,2015,Estimated,1.153,,viz_men_age,Average weight (kg),Men,9.906
+Average weight (kg),Average weight,Sex by Age,Men Age Group 3,2015,Estimated,5.706,,viz_men_age,Average weight (kg),Men,9.906
+Average weight (kg),Average weight,Sex by Age,Men Age Group 4,2015,Estimated,1.063,,viz_men_age,Average weight (kg),Men,9.906
+Average weight (kg),Average weight,Sex by Area,Urban Men,2015,Estimated,3.267,,viz_sex_area,Average weight (kg),Men,9.906
+Average weight (kg),Average weight,Sex by Area,Rural Men,2015,Estimated,10.09,,viz_sex_area,Average weight (kg),Men,9.906
+Average weight (kg),Average weight,Sex by Area,Urban Women,2015,Estimated,5.257,,viz_sex_area,Average weight (kg),Women,2.864
+Average weight (kg),Average weight,Sex by Area,Rural Women,2015,Estimated,1.591,,viz_sex_area,Average weight (kg),Women,2.864
+Average weight (kg),Average weight,Age by Area,Urban Age Group 1,2015,Estimated,4.105,,viz_age_area,Average weight (kg),Urban,10.09
+Average weight (kg),Average weight,Age by Area,Rural Age Group 1,2015,Estimated,12.35,,viz_age_area,Average weight (kg),Rural,5.257
+Average weight (kg),Average weight,Age by Area,Urban Age Group 2,2015,Estimated,9.906,,viz_age_area,Average weight (kg),Urban,10.09
+Average weight (kg),Average weight,Age by Area,Rural Age Group 2,2015,Estimated,2.864,,viz_age_area,Average weight (kg),Rural,5.257
+Average weight (kg),Average weight,Age by Area,Urban Age Group 3,2015,Estimated,1.153,,viz_age_area,Average weight (kg),Urban,10.09
+Average weight (kg),Average weight,Age by Area,Rural Age Group 3,2015,Estimated,5.706,,viz_age_area,Average weight (kg),Rural,5.257
+Average weight (kg),Average weight,Age by Area,Urban Age Group 4,2015,Estimated,1.063,,viz_age_area,Average weight (kg),Urban,10.09
+Average weight (kg),Average weight,Age by Area,Rural Age Group 4,2015,Estimated,3.267,,viz_age_area,Average weight (kg),Rural,5.257
+Average weight (kg),Average weight,Total,Total,2015,Lower Bound,10.09,,,,"",
+Average weight (kg),Average weight,Sex,Men,2015,Lower Bound,5.257,,,,Total,10.09
+Average weight (kg),Average weight,Sex,Women,2015,Lower Bound,1.591,,,,Total,10.09
+Average weight (kg),Average weight,Age,Age Group 1,2015,Lower Bound,4.105,,,,Total,10.09
+Average weight (kg),Average weight,Age,Age Group 2,2015,Lower Bound,12.35,,,,Total,10.09
+Average weight (kg),Average weight,Age,Age Group 3,2015,Lower Bound,9.906,,,,Total,10.09
+Average weight (kg),Average weight,Age,Age Group 4,2015,Lower Bound,2.864,,,,Total,10.09
+Average weight (kg),Average weight,Area,Urban,2015,Lower Bound,1.153,,,,Total,10.09
+Average weight (kg),Average weight,Area,Rural,2015,Lower Bound,5.706,,,,Total,10.09
+Average weight (kg),Average weight,Sex by Age,Women Age Group 1,2015,Lower Bound,1.063,,,,Women,1.591
+Average weight (kg),Average weight,Sex by Age,Women Age Group 2,2015,Lower Bound,3.267,,,,Women,1.591
+Average weight (kg),Average weight,Sex by Age,Women Age Group 3,2015,Lower Bound,10.09,,,,Women,1.591
+Average weight (kg),Average weight,Sex by Age,Women Age Group 4,2015,Lower Bound,5.257,,,,Women,1.591
+Average weight (kg),Average weight,Sex by Age,Men Age Group 1,2015,Lower Bound,1.591,,,,Men,5.257
+Average weight (kg),Average weight,Sex by Age,Men Age Group 2,2015,Lower Bound,4.105,,,,Men,5.257
+Average weight (kg),Average weight,Sex by Age,Men Age Group 3,2015,Lower Bound,12.35,,,,Men,5.257
+Average weight (kg),Average weight,Sex by Age,Men Age Group 4,2015,Lower Bound,9.906,,,,Men,5.257
+Average weight (kg),Average weight,Sex by Area,Urban Men,2015,Lower Bound,2.864,,,,Men,5.257
+Average weight (kg),Average weight,Sex by Area,Rural Men,2015,Lower Bound,1.153,,,,Men,5.257
+Average weight (kg),Average weight,Sex by Area,Urban Women,2015,Lower Bound,5.706,,,,Women,1.591
+Average weight (kg),Average weight,Sex by Area,Rural Women,2015,Lower Bound,1.063,,,,Women,1.591
+Average weight (kg),Average weight,Age by Area,Urban Age Group 1,2015,Lower Bound,3.267,,,,Urban,1.153
+Average weight (kg),Average weight,Age by Area,Rural Age Group 1,2015,Lower Bound,10.09,,,,Rural,5.706
+Average weight (kg),Average weight,Age by Area,Urban Age Group 2,2015,Lower Bound,5.257,,,,Urban,1.153
+Average weight (kg),Average weight,Age by Area,Rural Age Group 2,2015,Lower Bound,1.591,,,,Rural,5.706
+Average weight (kg),Average weight,Age by Area,Urban Age Group 3,2015,Lower Bound,4.105,,,,Urban,1.153
+Average weight (kg),Average weight,Age by Area,Rural Age Group 3,2015,Lower Bound,12.35,,,,Rural,5.706
+Average weight (kg),Average weight,Age by Area,Urban Age Group 4,2015,Lower Bound,9.906,,,,Urban,1.153
+Average weight (kg),Average weight,Age by Area,Rural Age Group 4,2015,Lower Bound,2.864,,,,Rural,5.706
+Average weight (kg),Average weight,Total,Total,2015,Upper Bound,1.153,,,,"",
+Average weight (kg),Average weight,Sex,Men,2015,Upper Bound,5.706,,,,Total,1.153
+Average weight (kg),Average weight,Sex,Women,2015,Upper Bound,1.063,,,,Total,1.153
+Average weight (kg),Average weight,Age,Age Group 1,2015,Upper Bound,3.267,,,,Total,1.153
+Average weight (kg),Average weight,Age,Age Group 2,2015,Upper Bound,10.09,,,,Total,1.153
+Average weight (kg),Average weight,Age,Age Group 3,2015,Upper Bound,5.257,,,,Total,1.153
+Average weight (kg),Average weight,Age,Age Group 4,2015,Upper Bound,1.591,,,,Total,1.153
+Average weight (kg),Average weight,Area,Urban,2015,Upper Bound,4.105,,,,Total,1.153
+Average weight (kg),Average weight,Area,Rural,2015,Upper Bound,12.35,,,,Total,1.153
+Average weight (kg),Average weight,Sex by Age,Women Age Group 1,2015,Upper Bound,9.906,,,,Women,1.063
+Average weight (kg),Average weight,Sex by Age,Women Age Group 2,2015,Upper Bound,2.864,,,,Women,1.063
+Average weight (kg),Average weight,Sex by Age,Women Age Group 3,2015,Upper Bound,1.153,,,,Women,1.063
+Average weight (kg),Average weight,Sex by Age,Women Age Group 4,2015,Upper Bound,5.706,,,,Women,1.063
+Average weight (kg),Average weight,Sex by Age,Men Age Group 1,2015,Upper Bound,1.063,,,,Men,5.706
+Average weight (kg),Average weight,Sex by Age,Men Age Group 2,2015,Upper Bound,3.267,,,,Men,5.706
+Average weight (kg),Average weight,Sex by Age,Men Age Group 3,2015,Upper Bound,10.09,,,,Men,5.706
+Average weight (kg),Average weight,Sex by Age,Men Age Group 4,2015,Upper Bound,5.257,,,,Men,5.706
+Average weight (kg),Average weight,Sex by Area,Urban Men,2015,Upper Bound,1.591,,,,Men,5.706
+Average weight (kg),Average weight,Sex by Area,Rural Men,2015,Upper Bound,4.105,,,,Men,5.706
+Average weight (kg),Average weight,Sex by Area,Urban Women,2015,Upper Bound,12.35,,,,Women,1.063
+Average weight (kg),Average weight,Sex by Area,Rural Women,2015,Upper Bound,9.906,,,,Women,1.063
+Average weight (kg),Average weight,Age by Area,Urban Age Group 1,2015,Upper Bound,2.864,,,,Urban,4.105
+Average weight (kg),Average weight,Age by Area,Rural Age Group 1,2015,Upper Bound,1.153,,,,Rural,12.35
+Average weight (kg),Average weight,Age by Area,Urban Age Group 2,2015,Upper Bound,5.706,,,,Urban,4.105
+Average weight (kg),Average weight,Age by Area,Rural Age Group 2,2015,Upper Bound,1.063,,,,Rural,12.35
+Average weight (kg),Average weight,Age by Area,Urban Age Group 3,2015,Upper Bound,3.267,,,,Urban,4.105
+Average weight (kg),Average weight,Age by Area,Rural Age Group 3,2015,Upper Bound,10.09,,,,Rural,12.35
+Average weight (kg),Average weight,Age by Area,Urban Age Group 4,2015,Upper Bound,5.257,,,,Urban,4.105
+Average weight (kg),Average weight,Age by Area,Rural Age Group 4,2015,Lower Bound,1.591,,,,Rural,5.706
+Average BMI (kg/m2),Average BMI,Total,Total,2015,Estimated,4.105,,viz_total,Average BMI (kg/m2),"",
+Average BMI (kg/m2),Average BMI,Sex,Men,2015,Estimated,12.35,,viz_sex,Average BMI (kg/m2),Total,4.105
+Average BMI (kg/m2),Average BMI,Sex,Women,2015,Estimated,9.906,,viz_sex,Average BMI (kg/m2),Total,4.105
+Average BMI (kg/m2),Average BMI,Age,Age Group 1,2015,Estimated,2.864,,viz_age,Average BMI (kg/m2),Total,4.105
+Average BMI (kg/m2),Average BMI,Age,Age Group 2,2015,Estimated,1.153,,viz_age,Average BMI (kg/m2),Total,4.105
+Average BMI (kg/m2),Average BMI,Age,Age Group 3,2015,Estimated,5.706,,viz_age,Average BMI (kg/m2),Total,4.105
+Average BMI (kg/m2),Average BMI,Age,Age Group 4,2015,Estimated,1.063,,viz_age,Average BMI (kg/m2),Total,4.105
+Average BMI (kg/m2),Average BMI,Area,Urban,2015,Estimated,3.267,,viz_area,Average BMI (kg/m2),Total,4.105
+Average BMI (kg/m2),Average BMI,Area,Rural,2015,Estimated,10.09,,viz_area,Average BMI (kg/m2),Total,4.105
+Average BMI (kg/m2),Average BMI,Sex by Age,Women Age Group 1,2015,Estimated,5.257,,viz_women_age,Average BMI (kg/m2),Women,9.906
+Average BMI (kg/m2),Average BMI,Sex by Age,Women Age Group 2,2015,Estimated,1.591,,viz_women_age,Average BMI (kg/m2),Women,9.906
+Average BMI (kg/m2),Average BMI,Sex by Age,Women Age Group 3,2015,Estimated,4.105,,viz_women_age,Average BMI (kg/m2),Women,9.906
+Average BMI (kg/m2),Average BMI,Sex by Age,Women Age Group 4,2015,Estimated,12.35,,viz_women_age,Average BMI (kg/m2),Women,9.906
+Average BMI (kg/m2),Average BMI,Sex by Age,Men Age Group 1,2015,Estimated,9.906,,viz_men_age,Average BMI (kg/m2),Men,12.35
+Average BMI (kg/m2),Average BMI,Sex by Age,Men Age Group 2,2015,Estimated,2.864,,viz_men_age,Average BMI (kg/m2),Men,12.35
+Average BMI (kg/m2),Average BMI,Sex by Age,Men Age Group 3,2015,Estimated,1.153,,viz_men_age,Average BMI (kg/m2),Men,12.35
+Average BMI (kg/m2),Average BMI,Sex by Age,Men Age Group 4,2015,Estimated,5.706,,viz_men_age,Average BMI (kg/m2),Men,12.35
+Average BMI (kg/m2),Average BMI,Sex by Area,Urban Men,2015,Estimated,1.063,,viz_sex_area,Average BMI (kg/m2),Men,12.35
+Average BMI (kg/m2),Average BMI,Sex by Area,Rural Men,2015,Estimated,3.267,,viz_sex_area,Average BMI (kg/m2),Men,12.35
+Average BMI (kg/m2),Average BMI,Sex by Area,Urban Women,2015,Estimated,10.09,,viz_sex_area,Average BMI (kg/m2),Women,9.906
+Average BMI (kg/m2),Average BMI,Sex by Area,Rural Women,2015,Estimated,5.257,,viz_sex_area,Average BMI (kg/m2),Women,9.906
+Average BMI (kg/m2),Average BMI,Age by Area,Urban Age Group 1,2015,Estimated,1.591,,viz_age_area,Average BMI (kg/m2),Urban,3.267
+Average BMI (kg/m2),Average BMI,Age by Area,Rural Age Group 1,2015,Estimated,4.105,,viz_age_area,Average BMI (kg/m2),Rural,10.09
+Average BMI (kg/m2),Average BMI,Age by Area,Urban Age Group 2,2015,Estimated,12.35,,viz_age_area,Average BMI (kg/m2),Urban,3.267
+Average BMI (kg/m2),Average BMI,Age by Area,Rural Age Group 2,2015,Estimated,9.906,,viz_age_area,Average BMI (kg/m2),Rural,10.09
+Average BMI (kg/m2),Average BMI,Age by Area,Urban Age Group 3,2015,Estimated,2.864,,viz_age_area,Average BMI (kg/m2),Urban,3.267
+Average BMI (kg/m2),Average BMI,Age by Area,Rural Age Group 3,2015,Estimated,1.153,,viz_age_area,Average BMI (kg/m2),Rural,10.09
+Average BMI (kg/m2),Average BMI,Age by Area,Urban Age Group 4,2015,Estimated,5.706,,viz_age_area,Average BMI (kg/m2),Urban,3.267
+Average BMI (kg/m2),Average BMI,Age by Area,Rural Age Group 4,2015,Estimated,1.063,,viz_age_area,Average BMI (kg/m2),Rural,10.09
+Average BMI (kg/m2),Average BMI,Total,Total,2015,Lower Bound,3.267,,,,"",
+Average BMI (kg/m2),Average BMI,Sex,Men,2015,Lower Bound,10.09,,,,Total,3.267
+Average BMI (kg/m2),Average BMI,Sex,Women,2015,Lower Bound,5.257,,,,Total,3.267
+Average BMI (kg/m2),Average BMI,Age,Age Group 1,2015,Lower Bound,1.591,,,,Total,3.267
+Average BMI (kg/m2),Average BMI,Age,Age Group 2,2015,Lower Bound,4.105,,,,Total,3.267
+Average BMI (kg/m2),Average BMI,Age,Age Group 3,2015,Lower Bound,12.35,,,,Total,3.267
+Average BMI (kg/m2),Average BMI,Age,Age Group 4,2015,Lower Bound,9.906,,,,Total,3.267
+Average BMI (kg/m2),Average BMI,Area,Urban,2015,Lower Bound,2.864,,,,Total,3.267
+Average BMI (kg/m2),Average BMI,Area,Rural,2015,Lower Bound,1.153,,,,Total,3.267
+Average BMI (kg/m2),Average BMI,Sex by Age,Women Age Group 1,2015,Lower Bound,5.706,,,,Women,5.257
+Average BMI (kg/m2),Average BMI,Sex by Age,Women Age Group 2,2015,Lower Bound,1.063,,,,Women,5.257
+Average BMI (kg/m2),Average BMI,Sex by Age,Women Age Group 3,2015,Lower Bound,3.267,,,,Women,5.257
+Average BMI (kg/m2),Average BMI,Sex by Age,Women Age Group 4,2015,Lower Bound,10.09,,,,Women,5.257
+Average BMI (kg/m2),Average BMI,Sex by Age,Men Age Group 1,2015,Lower Bound,5.257,,,,Men,10.09
+Average BMI (kg/m2),Average BMI,Sex by Age,Men Age Group 2,2015,Lower Bound,1.591,,,,Men,10.09
+Average BMI (kg/m2),Average BMI,Sex by Age,Men Age Group 3,2015,Lower Bound,4.105,,,,Men,10.09
+Average BMI (kg/m2),Average BMI,Sex by Age,Men Age Group 4,2015,Lower Bound,12.35,,,,Men,10.09
+Average BMI (kg/m2),Average BMI,Sex by Area,Urban Men,2015,Lower Bound,9.906,,,,Men,10.09
+Average BMI (kg/m2),Average BMI,Sex by Area,Rural Men,2015,Lower Bound,2.864,,,,Men,10.09
+Average BMI (kg/m2),Average BMI,Sex by Area,Urban Women,2015,Lower Bound,1.153,,,,Women,5.257
+Average BMI (kg/m2),Average BMI,Sex by Area,Rural Women,2015,Lower Bound,5.706,,,,Women,5.257
+Average BMI (kg/m2),Average BMI,Age by Area,Urban Age Group 1,2015,Lower Bound,1.063,,,,Urban,2.864
+Average BMI (kg/m2),Average BMI,Age by Area,Rural Age Group 1,2015,Lower Bound,3.267,,,,Rural,1.153
+Average BMI (kg/m2),Average BMI,Age by Area,Urban Age Group 2,2015,Lower Bound,10.09,,,,Urban,2.864
+Average BMI (kg/m2),Average BMI,Age by Area,Rural Age Group 2,2015,Lower Bound,5.257,,,,Rural,1.153
+Average BMI (kg/m2),Average BMI,Age by Area,Urban Age Group 3,2015,Lower Bound,1.591,,,,Urban,2.864
+Average BMI (kg/m2),Average BMI,Age by Area,Rural Age Group 3,2015,Lower Bound,4.105,,,,Rural,1.153
+Average BMI (kg/m2),Average BMI,Age by Area,Urban Age Group 4,2015,Lower Bound,12.35,,,,Urban,2.864
+Average BMI (kg/m2),Average BMI,Age by Area,Rural Age Group 4,2015,Lower Bound,9.906,,,,Rural,1.153
+Average BMI (kg/m2),Average BMI,Total,Total,2015,Upper Bound,2.864,,,,"",
+Average BMI (kg/m2),Average BMI,Sex,Men,2015,Upper Bound,1.153,,,,Total,2.864
+Average BMI (kg/m2),Average BMI,Sex,Women,2015,Upper Bound,5.706,,,,Total,2.864
+Average BMI (kg/m2),Average BMI,Age,Age Group 1,2015,Upper Bound,1.063,,,,Total,2.864
+Average BMI (kg/m2),Average BMI,Age,Age Group 2,2015,Upper Bound,3.267,,,,Total,2.864
+Average BMI (kg/m2),Average BMI,Age,Age Group 3,2015,Upper Bound,10.09,,,,Total,2.864
+Average BMI (kg/m2),Average BMI,Age,Age Group 4,2015,Upper Bound,5.257,,,,Total,2.864
+Average BMI (kg/m2),Average BMI,Area,Urban,2015,Upper Bound,1.591,,,,Total,2.864
+Average BMI (kg/m2),Average BMI,Area,Rural,2015,Upper Bound,4.105,,,,Total,2.864
+Average BMI (kg/m2),Average BMI,Sex by Age,Women Age Group 1,2015,Upper Bound,12.35,,,,Women,5.706
+Average BMI (kg/m2),Average BMI,Sex by Age,Women Age Group 2,2015,Upper Bound,9.906,,,,Women,5.706
+Average BMI (kg/m2),Average BMI,Sex by Age,Women Age Group 3,2015,Upper Bound,2.864,,,,Women,5.706
+Average BMI (kg/m2),Average BMI,Sex by Age,Women Age Group 4,2015,Upper Bound,1.153,,,,Women,5.706
+Average BMI (kg/m2),Average BMI,Sex by Age,Men Age Group 1,2015,Upper Bound,5.706,,,,Men,1.153
+Average BMI (kg/m2),Average BMI,Sex by Age,Men Age Group 2,2015,Upper Bound,1.063,,,,Men,1.153
+Average BMI (kg/m2),Average BMI,Sex by Age,Men Age Group 3,2015,Upper Bound,3.267,,,,Men,1.153
+Average BMI (kg/m2),Average BMI,Sex by Age,Men Age Group 4,2015,Upper Bound,10.09,,,,Men,1.153
+Average BMI (kg/m2),Average BMI,Sex by Area,Urban Men,2015,Upper Bound,5.257,,,,Men,1.153
+Average BMI (kg/m2),Average BMI,Sex by Area,Rural Men,2015,Upper Bound,1.591,,,,Men,1.153
+Average BMI (kg/m2),Average BMI,Sex by Area,Urban Women,2015,Upper Bound,4.105,,,,Women,5.706
+Average BMI (kg/m2),Average BMI,Sex by Area,Rural Women,2015,Upper Bound,12.35,,,,Women,5.706
+Average BMI (kg/m2),Average BMI,Age by Area,Urban Age Group 1,2015,Upper Bound,9.906,,,,Urban,1.591
+Average BMI (kg/m2),Average BMI,Age by Area,Rural Age Group 1,2015,Upper Bound,2.864,,,,Rural,4.105
+Average BMI (kg/m2),Average BMI,Age by Area,Urban Age Group 2,2015,Upper Bound,1.153,,,,Urban,1.591
+Average BMI (kg/m2),Average BMI,Age by Area,Rural Age Group 2,2015,Upper Bound,5.706,,,,Rural,4.105
+Average BMI (kg/m2),Average BMI,Age by Area,Urban Age Group 3,2015,Upper Bound,1.063,,,,Urban,1.591
+Average BMI (kg/m2),Average BMI,Age by Area,Rural Age Group 3,2015,Upper Bound,3.267,,,,Rural,4.105
+Average BMI (kg/m2),Average BMI,Age by Area,Urban Age Group 4,2015,Upper Bound,10.09,,,,Urban,1.591
+Average BMI (kg/m2),Average BMI,Age by Area,Rural Age Group 4,2015,Lower Bound,5.257,,,,Rural,1.153
+Average waist circumference (cm),Average waist circumference,Total,Total,2015,Estimated,1.591,,viz_total,Average waist circumference (cm),"",
+Average waist circumference (cm),Average waist circumference,Sex,Men,2015,Estimated,4.105,,viz_sex,Average waist circumference (cm),Total,1.591
+Average waist circumference (cm),Average waist circumference,Sex,Women,2015,Estimated,12.35,,viz_sex,Average waist circumference (cm),Total,1.591
+Average waist circumference (cm),Average waist circumference,Age,Age Group 1,2015,Estimated,9.906,,viz_age,Average waist circumference (cm),Total,1.591
+Average waist circumference (cm),Average waist circumference,Age,Age Group 2,2015,Estimated,2.864,,viz_age,Average waist circumference (cm),Total,1.591
+Average waist circumference (cm),Average waist circumference,Age,Age Group 3,2015,Estimated,1.153,,viz_age,Average waist circumference (cm),Total,1.591
+Average waist circumference (cm),Average waist circumference,Age,Age Group 4,2015,Estimated,5.706,,viz_age,Average waist circumference (cm),Total,1.591
+Average waist circumference (cm),Average waist circumference,Area,Urban,2015,Estimated,1.063,,viz_area,Average waist circumference (cm),Total,1.591
+Average waist circumference (cm),Average waist circumference,Area,Rural,2015,Estimated,3.267,,viz_area,Average waist circumference (cm),Total,1.591
+Average waist circumference (cm),Average waist circumference,Sex by Age,Women Age Group 1,2015,Estimated,10.09,,viz_women_age,Average waist circumference (cm),Women,12.35
+Average waist circumference (cm),Average waist circumference,Sex by Age,Women Age Group 2,2015,Estimated,5.257,,viz_women_age,Average waist circumference (cm),Women,12.35
+Average waist circumference (cm),Average waist circumference,Sex by Age,Women Age Group 3,2015,Estimated,1.591,,viz_women_age,Average waist circumference (cm),Women,12.35
+Average waist circumference (cm),Average waist circumference,Sex by Age,Women Age Group 4,2015,Estimated,4.105,,viz_women_age,Average waist circumference (cm),Women,12.35
+Average waist circumference (cm),Average waist circumference,Sex by Age,Men Age Group 1,2015,Estimated,12.35,,viz_men_age,Average waist circumference (cm),Men,4.105
+Average waist circumference (cm),Average waist circumference,Sex by Age,Men Age Group 2,2015,Estimated,9.906,,viz_men_age,Average waist circumference (cm),Men,4.105
+Average waist circumference (cm),Average waist circumference,Sex by Age,Men Age Group 3,2015,Estimated,2.864,,viz_men_age,Average waist circumference (cm),Men,4.105
+Average waist circumference (cm),Average waist circumference,Sex by Age,Men Age Group 4,2015,Estimated,1.153,,viz_men_age,Average waist circumference (cm),Men,4.105
+Average waist circumference (cm),Average waist circumference,Sex by Area,Urban Men,2015,Estimated,5.706,,viz_sex_area,Average waist circumference (cm),Men,4.105
+Average waist circumference (cm),Average waist circumference,Sex by Area,Rural Men,2015,Estimated,1.063,,viz_sex_area,Average waist circumference (cm),Men,4.105
+Average waist circumference (cm),Average waist circumference,Sex by Area,Urban Women,2015,Estimated,3.267,,viz_sex_area,Average waist circumference (cm),Women,12.35
+Average waist circumference (cm),Average waist circumference,Sex by Area,Rural Women,2015,Estimated,10.09,,viz_sex_area,Average waist circumference (cm),Women,12.35
+Average waist circumference (cm),Average waist circumference,Age by Area,Urban Age Group 1,2015,Estimated,5.257,,viz_age_area,Average waist circumference (cm),Urban,1.063
+Average waist circumference (cm),Average waist circumference,Age by Area,Rural Age Group 1,2015,Estimated,1.591,,viz_age_area,Average waist circumference (cm),Rural,3.267
+Average waist circumference (cm),Average waist circumference,Age by Area,Urban Age Group 2,2015,Estimated,4.105,,viz_age_area,Average waist circumference (cm),Urban,1.063
+Average waist circumference (cm),Average waist circumference,Age by Area,Rural Age Group 2,2015,Estimated,12.35,,viz_age_area,Average waist circumference (cm),Rural,3.267
+Average waist circumference (cm),Average waist circumference,Age by Area,Urban Age Group 3,2015,Estimated,9.906,,viz_age_area,Average waist circumference (cm),Urban,1.063
+Average waist circumference (cm),Average waist circumference,Age by Area,Rural Age Group 3,2015,Estimated,2.864,,viz_age_area,Average waist circumference (cm),Rural,3.267
+Average waist circumference (cm),Average waist circumference,Age by Area,Urban Age Group 4,2015,Estimated,1.153,,viz_age_area,Average waist circumference (cm),Urban,1.063
+Average waist circumference (cm),Average waist circumference,Age by Area,Rural Age Group 4,2015,Estimated,5.706,,viz_age_area,Average waist circumference (cm),Rural,3.267
+Average waist circumference (cm),Average waist circumference,Total,Total,2015,Lower Bound,1.063,,,,"",
+Average waist circumference (cm),Average waist circumference,Sex,Men,2015,Lower Bound,3.267,,,,Total,1.063
+Average waist circumference (cm),Average waist circumference,Sex,Women,2015,Lower Bound,10.09,,,,Total,1.063
+Average waist circumference (cm),Average waist circumference,Age,Age Group 1,2015,Lower Bound,5.257,,,,Total,1.063
+Average waist circumference (cm),Average waist circumference,Age,Age Group 2,2015,Lower Bound,1.591,,,,Total,1.063
+Average waist circumference (cm),Average waist circumference,Age,Age Group 3,2015,Lower Bound,4.105,,,,Total,1.063
+Average waist circumference (cm),Average waist circumference,Age,Age Group 4,2015,Lower Bound,12.35,,,,Total,1.063
+Average waist circumference (cm),Average waist circumference,Area,Urban,2015,Lower Bound,9.906,,,,Total,1.063
+Average waist circumference (cm),Average waist circumference,Area,Rural,2015,Lower Bound,2.864,,,,Total,1.063
+Average waist circumference (cm),Average waist circumference,Sex by Age,Women Age Group 1,2015,Lower Bound,1.153,,,,Women,10.09
+Average waist circumference (cm),Average waist circumference,Sex by Age,Women Age Group 2,2015,Lower Bound,5.706,,,,Women,10.09
+Average waist circumference (cm),Average waist circumference,Sex by Age,Women Age Group 3,2015,Lower Bound,1.063,,,,Women,10.09
+Average waist circumference (cm),Average waist circumference,Sex by Age,Women Age Group 4,2015,Lower Bound,3.267,,,,Women,10.09
+Average waist circumference (cm),Average waist circumference,Sex by Age,Men Age Group 1,2015,Lower Bound,10.09,,,,Men,3.267
+Average waist circumference (cm),Average waist circumference,Sex by Age,Men Age Group 2,2015,Lower Bound,5.257,,,,Men,3.267
+Average waist circumference (cm),Average waist circumference,Sex by Age,Men Age Group 3,2015,Lower Bound,1.591,,,,Men,3.267
+Average waist circumference (cm),Average waist circumference,Sex by Age,Men Age Group 4,2015,Lower Bound,4.105,,,,Men,3.267
+Average waist circumference (cm),Average waist circumference,Sex by Area,Urban Men,2015,Lower Bound,12.35,,,,Men,3.267
+Average waist circumference (cm),Average waist circumference,Sex by Area,Rural Men,2015,Lower Bound,9.906,,,,Men,3.267
+Average waist circumference (cm),Average waist circumference,Sex by Area,Urban Women,2015,Lower Bound,2.864,,,,Women,10.09
+Average waist circumference (cm),Average waist circumference,Sex by Area,Rural Women,2015,Lower Bound,1.153,,,,Women,10.09
+Average waist circumference (cm),Average waist circumference,Age by Area,Urban Age Group 1,2015,Lower Bound,5.706,,,,Urban,9.906
+Average waist circumference (cm),Average waist circumference,Age by Area,Rural Age Group 1,2015,Lower Bound,1.063,,,,Rural,2.864
+Average waist circumference (cm),Average waist circumference,Age by Area,Urban Age Group 2,2015,Lower Bound,3.267,,,,Urban,9.906
+Average waist circumference (cm),Average waist circumference,Age by Area,Rural Age Group 2,2015,Lower Bound,10.09,,,,Rural,2.864
+Average waist circumference (cm),Average waist circumference,Age by Area,Urban Age Group 3,2015,Lower Bound,5.257,,,,Urban,9.906
+Average waist circumference (cm),Average waist circumference,Age by Area,Rural Age Group 3,2015,Lower Bound,1.591,,,,Rural,2.864
+Average waist circumference (cm),Average waist circumference,Age by Area,Urban Age Group 4,2015,Lower Bound,4.105,,,,Urban,9.906
+Average waist circumference (cm),Average waist circumference,Age by Area,Rural Age Group 4,2015,Lower Bound,12.35,,,,Rural,2.864
+Average waist circumference (cm),Average waist circumference,Total,Total,2015,Upper Bound,9.906,,,,"",
+Average waist circumference (cm),Average waist circumference,Sex,Men,2015,Upper Bound,2.864,,,,Total,9.906
+Average waist circumference (cm),Average waist circumference,Sex,Women,2015,Upper Bound,1.153,,,,Total,9.906
+Average waist circumference (cm),Average waist circumference,Age,Age Group 1,2015,Upper Bound,5.706,,,,Total,9.906
+Average waist circumference (cm),Average waist circumference,Age,Age Group 2,2015,Upper Bound,1.063,,,,Total,9.906
+Average waist circumference (cm),Average waist circumference,Age,Age Group 3,2015,Upper Bound,3.267,,,,Total,9.906
+Average waist circumference (cm),Average waist circumference,Age,Age Group 4,2015,Upper Bound,10.09,,,,Total,9.906
+Average waist circumference (cm),Average waist circumference,Area,Urban,2015,Upper Bound,5.257,,,,Total,9.906
+Average waist circumference (cm),Average waist circumference,Area,Rural,2015,Upper Bound,1.591,,,,Total,9.906
+Average waist circumference (cm),Average waist circumference,Sex by Age,Women Age Group 1,2015,Upper Bound,4.105,,,,Women,1.153
+Average waist circumference (cm),Average waist circumference,Sex by Age,Women Age Group 2,2015,Upper Bound,12.35,,,,Women,1.153
+Average waist circumference (cm),Average waist circumference,Sex by Age,Women Age Group 3,2015,Upper Bound,9.906,,,,Women,1.153
+Average waist circumference (cm),Average waist circumference,Sex by Age,Women Age Group 4,2015,Upper Bound,2.864,,,,Women,1.153
+Average waist circumference (cm),Average waist circumference,Sex by Age,Men Age Group 1,2015,Upper Bound,1.153,,,,Men,2.864
+Average waist circumference (cm),Average waist circumference,Sex by Age,Men Age Group 2,2015,Upper Bound,5.706,,,,Men,2.864
+Average waist circumference (cm),Average waist circumference,Sex by Age,Men Age Group 3,2015,Upper Bound,1.063,,,,Men,2.864
+Average waist circumference (cm),Average waist circumference,Sex by Age,Men Age Group 4,2015,Upper Bound,3.267,,,,Men,2.864
+Average waist circumference (cm),Average waist circumference,Sex by Area,Urban Men,2015,Upper Bound,10.09,,,,Men,2.864
+Average waist circumference (cm),Average waist circumference,Sex by Area,Rural Men,2015,Upper Bound,5.257,,,,Men,2.864
+Average waist circumference (cm),Average waist circumference,Sex by Area,Urban Women,2015,Upper Bound,1.591,,,,Women,1.153
+Average waist circumference (cm),Average waist circumference,Sex by Area,Rural Women,2015,Upper Bound,4.105,,,,Women,1.153
+Average waist circumference (cm),Average waist circumference,Age by Area,Urban Age Group 1,2015,Upper Bound,12.35,,,,Urban,5.257
+Average waist circumference (cm),Average waist circumference,Age by Area,Rural Age Group 1,2015,Upper Bound,9.906,,,,Rural,1.591
+Average waist circumference (cm),Average waist circumference,Age by Area,Urban Age Group 2,2015,Upper Bound,2.864,,,,Urban,5.257
+Average waist circumference (cm),Average waist circumference,Age by Area,Rural Age Group 2,2015,Upper Bound,1.153,,,,Rural,1.591
+Average waist circumference (cm),Average waist circumference,Age by Area,Urban Age Group 3,2015,Upper Bound,5.706,,,,Urban,5.257
+Average waist circumference (cm),Average waist circumference,Age by Area,Rural Age Group 3,2015,Upper Bound,1.063,,,,Rural,1.591
+Average waist circumference (cm),Average waist circumference,Age by Area,Urban Age Group 4,2015,Upper Bound,3.267,,,,Urban,5.257
+Average waist circumference (cm),Average waist circumference,Age by Area,Rural Age Group 4,2015,Lower Bound,10.09,,,,Rural,2.864
+Average hip circumference (cm),Average hip circumference,Total,Total,2015,Estimated,5.257,,viz_total,Average hip circumference (cm),"",
+Average hip circumference (cm),Average hip circumference,Sex,Men,2015,Estimated,1.591,,viz_sex,Average hip circumference (cm),Total,5.257
+Average hip circumference (cm),Average hip circumference,Sex,Women,2015,Estimated,4.105,,viz_sex,Average hip circumference (cm),Total,5.257
+Average hip circumference (cm),Average hip circumference,Age,Age Group 1,2015,Estimated,12.35,,viz_age,Average hip circumference (cm),Total,5.257
+Average hip circumference (cm),Average hip circumference,Age,Age Group 2,2015,Estimated,9.906,,viz_age,Average hip circumference (cm),Total,5.257
+Average hip circumference (cm),Average hip circumference,Age,Age Group 3,2015,Estimated,2.864,,viz_age,Average hip circumference (cm),Total,5.257
+Average hip circumference (cm),Average hip circumference,Age,Age Group 4,2015,Estimated,1.153,,viz_age,Average hip circumference (cm),Total,5.257
+Average hip circumference (cm),Average hip circumference,Area,Urban,2015,Estimated,5.706,,viz_area,Average hip circumference (cm),Total,5.257
+Average hip circumference (cm),Average hip circumference,Area,Rural,2015,Estimated,1.063,,viz_area,Average hip circumference (cm),Total,5.257
+Average hip circumference (cm),Average hip circumference,Sex by Age,Women Age Group 1,2015,Estimated,3.267,,viz_women_age,Average hip circumference (cm),Women,4.105
+Average hip circumference (cm),Average hip circumference,Sex by Age,Women Age Group 2,2015,Estimated,10.09,,viz_women_age,Average hip circumference (cm),Women,4.105
+Average hip circumference (cm),Average hip circumference,Sex by Age,Women Age Group 3,2015,Estimated,5.257,,viz_women_age,Average hip circumference (cm),Women,4.105
+Average hip circumference (cm),Average hip circumference,Sex by Age,Women Age Group 4,2015,Estimated,1.591,,viz_women_age,Average hip circumference (cm),Women,4.105
+Average hip circumference (cm),Average hip circumference,Sex by Age,Men Age Group 1,2015,Estimated,4.105,,viz_men_age,Average hip circumference (cm),Men,1.591
+Average hip circumference (cm),Average hip circumference,Sex by Age,Men Age Group 2,2015,Estimated,12.35,,viz_men_age,Average hip circumference (cm),Men,1.591
+Average hip circumference (cm),Average hip circumference,Sex by Age,Men Age Group 3,2015,Estimated,9.906,,viz_men_age,Average hip circumference (cm),Men,1.591
+Average hip circumference (cm),Average hip circumference,Sex by Age,Men Age Group 4,2015,Estimated,2.864,,viz_men_age,Average hip circumference (cm),Men,1.591
+Average hip circumference (cm),Average hip circumference,Sex by Area,Urban Men,2015,Estimated,1.153,,viz_sex_area,Average hip circumference (cm),Men,1.591
+Average hip circumference (cm),Average hip circumference,Sex by Area,Rural Men,2015,Estimated,5.706,,viz_sex_area,Average hip circumference (cm),Men,1.591
+Average hip circumference (cm),Average hip circumference,Sex by Area,Urban Women,2015,Estimated,1.063,,viz_sex_area,Average hip circumference (cm),Women,4.105
+Average hip circumference (cm),Average hip circumference,Sex by Area,Rural Women,2015,Estimated,3.267,,viz_sex_area,Average hip circumference (cm),Women,4.105
+Average hip circumference (cm),Average hip circumference,Age by Area,Urban Age Group 1,2015,Estimated,10.09,,viz_age_area,Average hip circumference (cm),Urban,5.706
+Average hip circumference (cm),Average hip circumference,Age by Area,Rural Age Group 1,2015,Estimated,5.257,,viz_age_area,Average hip circumference (cm),Rural,1.063
+Average hip circumference (cm),Average hip circumference,Age by Area,Urban Age Group 2,2015,Estimated,1.591,,viz_age_area,Average hip circumference (cm),Urban,5.706
+Average hip circumference (cm),Average hip circumference,Age by Area,Rural Age Group 2,2015,Estimated,4.105,,viz_age_area,Average hip circumference (cm),Rural,1.063
+Average hip circumference (cm),Average hip circumference,Age by Area,Urban Age Group 3,2015,Estimated,12.35,,viz_age_area,Average hip circumference (cm),Urban,5.706
+Average hip circumference (cm),Average hip circumference,Age by Area,Rural Age Group 3,2015,Estimated,9.906,,viz_age_area,Average hip circumference (cm),Rural,1.063
+Average hip circumference (cm),Average hip circumference,Age by Area,Urban Age Group 4,2015,Estimated,2.864,,viz_age_area,Average hip circumference (cm),Urban,5.706
+Average hip circumference (cm),Average hip circumference,Age by Area,Rural Age Group 4,2015,Estimated,1.153,,viz_age_area,Average hip circumference (cm),Rural,1.063
+Average hip circumference (cm),Average hip circumference,Total,Total,2015,Lower Bound,5.706,,,,"",
+Average hip circumference (cm),Average hip circumference,Sex,Men,2015,Lower Bound,1.063,,,,Total,5.706
+Average hip circumference (cm),Average hip circumference,Sex,Women,2015,Lower Bound,3.267,,,,Total,5.706
+Average hip circumference (cm),Average hip circumference,Age,Age Group 1,2015,Lower Bound,10.09,,,,Total,5.706
+Average hip circumference (cm),Average hip circumference,Age,Age Group 2,2015,Lower Bound,5.257,,,,Total,5.706
+Average hip circumference (cm),Average hip circumference,Age,Age Group 3,2015,Lower Bound,1.591,,,,Total,5.706
+Average hip circumference (cm),Average hip circumference,Age,Age Group 4,2015,Lower Bound,4.105,,,,Total,5.706
+Average hip circumference (cm),Average hip circumference,Area,Urban,2015,Lower Bound,12.35,,,,Total,5.706
+Average hip circumference (cm),Average hip circumference,Area,Rural,2015,Lower Bound,9.906,,,,Total,5.706
+Average hip circumference (cm),Average hip circumference,Sex by Age,Women Age Group 1,2015,Lower Bound,2.864,,,,Women,3.267
+Average hip circumference (cm),Average hip circumference,Sex by Age,Women Age Group 2,2015,Lower Bound,1.153,,,,Women,3.267
+Average hip circumference (cm),Average hip circumference,Sex by Age,Women Age Group 3,2015,Lower Bound,5.706,,,,Women,3.267
+Average hip circumference (cm),Average hip circumference,Sex by Age,Women Age Group 4,2015,Lower Bound,1.063,,,,Women,3.267
+Average hip circumference (cm),Average hip circumference,Sex by Age,Men Age Group 1,2015,Lower Bound,3.267,,,,Men,1.063
+Average hip circumference (cm),Average hip circumference,Sex by Age,Men Age Group 2,2015,Lower Bound,10.09,,,,Men,1.063
+Average hip circumference (cm),Average hip circumference,Sex by Age,Men Age Group 3,2015,Lower Bound,5.257,,,,Men,1.063
+Average hip circumference (cm),Average hip circumference,Sex by Age,Men Age Group 4,2015,Lower Bound,1.591,,,,Men,1.063
+Average hip circumference (cm),Average hip circumference,Sex by Area,Urban Men,2015,Lower Bound,4.105,,,,Men,1.063
+Average hip circumference (cm),Average hip circumference,Sex by Area,Rural Men,2015,Lower Bound,12.35,,,,Men,1.063
+Average hip circumference (cm),Average hip circumference,Sex by Area,Urban Women,2015,Lower Bound,9.906,,,,Women,3.267
+Average hip circumference (cm),Average hip circumference,Sex by Area,Rural Women,2015,Lower Bound,2.864,,,,Women,3.267
+Average hip circumference (cm),Average hip circumference,Age by Area,Urban Age Group 1,2015,Lower Bound,1.153,,,,Urban,12.35
+Average hip circumference (cm),Average hip circumference,Age by Area,Rural Age Group 1,2015,Lower Bound,5.706,,,,Rural,9.906
+Average hip circumference (cm),Average hip circumference,Age by Area,Urban Age Group 2,2015,Lower Bound,1.063,,,,Urban,12.35
+Average hip circumference (cm),Average hip circumference,Age by Area,Rural Age Group 2,2015,Lower Bound,3.267,,,,Rural,9.906
+Average hip circumference (cm),Average hip circumference,Age by Area,Urban Age Group 3,2015,Lower Bound,10.09,,,,Urban,12.35
+Average hip circumference (cm),Average hip circumference,Age by Area,Rural Age Group 3,2015,Lower Bound,5.257,,,,Rural,9.906
+Average hip circumference (cm),Average hip circumference,Age by Area,Urban Age Group 4,2015,Lower Bound,1.591,,,,Urban,12.35
+Average hip circumference (cm),Average hip circumference,Age by Area,Rural Age Group 4,2015,Lower Bound,4.105,,,,Rural,9.906
+Average hip circumference (cm),Average hip circumference,Total,Total,2015,Upper Bound,12.35,,,,"",
+Average hip circumference (cm),Average hip circumference,Sex,Men,2015,Upper Bound,9.906,,,,Total,12.35
+Average hip circumference (cm),Average hip circumference,Sex,Women,2015,Upper Bound,2.864,,,,Total,12.35
+Average hip circumference (cm),Average hip circumference,Age,Age Group 1,2015,Upper Bound,1.153,,,,Total,12.35
+Average hip circumference (cm),Average hip circumference,Age,Age Group 2,2015,Upper Bound,5.706,,,,Total,12.35
+Average hip circumference (cm),Average hip circumference,Age,Age Group 3,2015,Upper Bound,1.063,,,,Total,12.35
+Average hip circumference (cm),Average hip circumference,Age,Age Group 4,2015,Upper Bound,3.267,,,,Total,12.35
+Average hip circumference (cm),Average hip circumference,Area,Urban,2015,Upper Bound,10.09,,,,Total,12.35
+Average hip circumference (cm),Average hip circumference,Area,Rural,2015,Upper Bound,5.257,,,,Total,12.35
+Average hip circumference (cm),Average hip circumference,Sex by Age,Women Age Group 1,2015,Upper Bound,1.591,,,,Women,2.864
+Average hip circumference (cm),Average hip circumference,Sex by Age,Women Age Group 2,2015,Upper Bound,4.105,,,,Women,2.864
+Average hip circumference (cm),Average hip circumference,Sex by Age,Women Age Group 3,2015,Upper Bound,12.35,,,,Women,2.864
+Average hip circumference (cm),Average hip circumference,Sex by Age,Women Age Group 4,2015,Upper Bound,9.906,,,,Women,2.864
+Average hip circumference (cm),Average hip circumference,Sex by Age,Men Age Group 1,2015,Upper Bound,2.864,,,,Men,9.906
+Average hip circumference (cm),Average hip circumference,Sex by Age,Men Age Group 2,2015,Upper Bound,1.153,,,,Men,9.906
+Average hip circumference (cm),Average hip circumference,Sex by Age,Men Age Group 3,2015,Upper Bound,5.706,,,,Men,9.906
+Average hip circumference (cm),Average hip circumference,Sex by Age,Men Age Group 4,2015,Upper Bound,1.063,,,,Men,9.906
+Average hip circumference (cm),Average hip circumference,Sex by Area,Urban Men,2015,Upper Bound,3.267,,,,Men,9.906
+Average hip circumference (cm),Average hip circumference,Sex by Area,Rural Men,2015,Upper Bound,10.09,,,,Men,9.906
+Average hip circumference (cm),Average hip circumference,Sex by Area,Urban Women,2015,Upper Bound,5.257,,,,Women,2.864
+Average hip circumference (cm),Average hip circumference,Sex by Area,Rural Women,2015,Upper Bound,1.591,,,,Women,2.864
+Average hip circumference (cm),Average hip circumference,Age by Area,Urban Age Group 1,2015,Upper Bound,4.105,,,,Urban,10.09
+Average hip circumference (cm),Average hip circumference,Age by Area,Rural Age Group 1,2015,Upper Bound,12.35,,,,Rural,5.257
+Average hip circumference (cm),Average hip circumference,Age by Area,Urban Age Group 2,2015,Upper Bound,9.906,,,,Urban,10.09
+Average hip circumference (cm),Average hip circumference,Age by Area,Rural Age Group 2,2015,Upper Bound,2.864,,,,Rural,5.257
+Average hip circumference (cm),Average hip circumference,Age by Area,Urban Age Group 3,2015,Upper Bound,1.153,,,,Urban,10.09
+Average hip circumference (cm),Average hip circumference,Age by Area,Rural Age Group 3,2015,Upper Bound,5.706,,,,Rural,5.257
+Average hip circumference (cm),Average hip circumference,Age by Area,Urban Age Group 4,2015,Upper Bound,1.063,,,,Urban,10.09
+Average hip circumference (cm),Average hip circumference,Age by Area,Rural Age Group 4,2015,Lower Bound,3.267,,,,Rural,9.906
+Average waist-to-hip ratio,Average waist-to-hip ratio,Total,Total,2015,Estimated,10.09,,viz_total,Average waist-to-hip ratio,"",
+Average waist-to-hip ratio,Average waist-to-hip ratio,Sex,Men,2015,Estimated,5.257,,viz_sex,Average waist-to-hip ratio,Total,10.09
+Average waist-to-hip ratio,Average waist-to-hip ratio,Sex,Women,2015,Estimated,1.591,,viz_sex,Average waist-to-hip ratio,Total,10.09
+Average waist-to-hip ratio,Average waist-to-hip ratio,Age,Age Group 1,2015,Estimated,4.105,,viz_age,Average waist-to-hip ratio,Total,10.09
+Average waist-to-hip ratio,Average waist-to-hip ratio,Age,Age Group 2,2015,Estimated,12.35,,viz_age,Average waist-to-hip ratio,Total,10.09
+Average waist-to-hip ratio,Average waist-to-hip ratio,Age,Age Group 3,2015,Estimated,9.906,,viz_age,Average waist-to-hip ratio,Total,10.09
+Average waist-to-hip ratio,Average waist-to-hip ratio,Age,Age Group 4,2015,Estimated,2.864,,viz_age,Average waist-to-hip ratio,Total,10.09
+Average waist-to-hip ratio,Average waist-to-hip ratio,Area,Urban,2015,Estimated,1.153,,viz_area,Average waist-to-hip ratio,Total,10.09
+Average waist-to-hip ratio,Average waist-to-hip ratio,Area,Rural,2015,Estimated,5.706,,viz_area,Average waist-to-hip ratio,Total,10.09
+Average waist-to-hip ratio,Average waist-to-hip ratio,Sex by Age,Women Age Group 1,2015,Estimated,1.063,,viz_women_age,Average waist-to-hip ratio,Women,1.591
+Average waist-to-hip ratio,Average waist-to-hip ratio,Sex by Age,Women Age Group 2,2015,Estimated,3.267,,viz_women_age,Average waist-to-hip ratio,Women,1.591
+Average waist-to-hip ratio,Average waist-to-hip ratio,Sex by Age,Women Age Group 3,2015,Estimated,10.09,,viz_women_age,Average waist-to-hip ratio,Women,1.591
+Average waist-to-hip ratio,Average waist-to-hip ratio,Sex by Age,Women Age Group 4,2015,Estimated,5.257,,viz_women_age,Average waist-to-hip ratio,Women,1.591
+Average waist-to-hip ratio,Average waist-to-hip ratio,Sex by Age,Men Age Group 1,2015,Estimated,1.591,,viz_men_age,Average waist-to-hip ratio,Men,5.257
+Average waist-to-hip ratio,Average waist-to-hip ratio,Sex by Age,Men Age Group 2,2015,Estimated,4.105,,viz_men_age,Average waist-to-hip ratio,Men,5.257
+Average waist-to-hip ratio,Average waist-to-hip ratio,Sex by Age,Men Age Group 3,2015,Estimated,12.35,,viz_men_age,Average waist-to-hip ratio,Men,5.257
+Average waist-to-hip ratio,Average waist-to-hip ratio,Sex by Age,Men Age Group 4,2015,Estimated,9.906,,viz_men_age,Average waist-to-hip ratio,Men,5.257
+Average waist-to-hip ratio,Average waist-to-hip ratio,Sex by Area,Urban Men,2015,Estimated,2.864,,viz_sex_area,Average waist-to-hip ratio,Men,5.257
+Average waist-to-hip ratio,Average waist-to-hip ratio,Sex by Area,Rural Men,2015,Estimated,1.153,,viz_sex_area,Average waist-to-hip ratio,Men,5.257
+Average waist-to-hip ratio,Average waist-to-hip ratio,Sex by Area,Urban Women,2015,Estimated,5.706,,viz_sex_area,Average waist-to-hip ratio,Women,1.591
+Average waist-to-hip ratio,Average waist-to-hip ratio,Sex by Area,Rural Women,2015,Estimated,1.063,,viz_sex_area,Average waist-to-hip ratio,Women,1.591
+Average waist-to-hip ratio,Average waist-to-hip ratio,Age by Area,Urban Age Group 1,2015,Estimated,3.267,,viz_age_area,Average waist-to-hip ratio,Urban,1.153
+Average waist-to-hip ratio,Average waist-to-hip ratio,Age by Area,Rural Age Group 1,2015,Estimated,10.09,,viz_age_area,Average waist-to-hip ratio,Rural,5.706
+Average waist-to-hip ratio,Average waist-to-hip ratio,Age by Area,Urban Age Group 2,2015,Estimated,5.257,,viz_age_area,Average waist-to-hip ratio,Urban,1.153
+Average waist-to-hip ratio,Average waist-to-hip ratio,Age by Area,Rural Age Group 2,2015,Estimated,1.591,,viz_age_area,Average waist-to-hip ratio,Rural,5.706
+Average waist-to-hip ratio,Average waist-to-hip ratio,Age by Area,Urban Age Group 3,2015,Estimated,4.105,,viz_age_area,Average waist-to-hip ratio,Urban,1.153
+Average waist-to-hip ratio,Average waist-to-hip ratio,Age by Area,Rural Age Group 3,2015,Estimated,12.35,,viz_age_area,Average waist-to-hip ratio,Rural,5.706
+Average waist-to-hip ratio,Average waist-to-hip ratio,Age by Area,Urban Age Group 4,2015,Estimated,9.906,,viz_age_area,Average waist-to-hip ratio,Urban,1.153
+Average waist-to-hip ratio,Average waist-to-hip ratio,Age by Area,Rural Age Group 4,2015,Estimated,2.864,,viz_age_area,Average waist-to-hip ratio,Rural,5.706
+Average waist-to-hip ratio,Average waist-to-hip ratio,Total,Total,2015,Lower Bound,1.153,,,,"",
+Average waist-to-hip ratio,Average waist-to-hip ratio,Sex,Men,2015,Lower Bound,5.706,,,,Total,1.153
+Average waist-to-hip ratio,Average waist-to-hip ratio,Sex,Women,2015,Lower Bound,1.063,,,,Total,1.153
+Average waist-to-hip ratio,Average waist-to-hip ratio,Age,Age Group 1,2015,Lower Bound,3.267,,,,Total,1.153
+Average waist-to-hip ratio,Average waist-to-hip ratio,Age,Age Group 2,2015,Lower Bound,10.09,,,,Total,1.153
+Average waist-to-hip ratio,Average waist-to-hip ratio,Age,Age Group 3,2015,Lower Bound,5.257,,,,Total,1.153
+Average waist-to-hip ratio,Average waist-to-hip ratio,Age,Age Group 4,2015,Lower Bound,1.591,,,,Total,1.153
+Average waist-to-hip ratio,Average waist-to-hip ratio,Area,Urban,2015,Lower Bound,4.105,,,,Total,1.153
+Average waist-to-hip ratio,Average waist-to-hip ratio,Area,Rural,2015,Lower Bound,12.35,,,,Total,1.153
+Average waist-to-hip ratio,Average waist-to-hip ratio,Sex by Age,Women Age Group 1,2015,Lower Bound,9.906,,,,Women,1.063
+Average waist-to-hip ratio,Average waist-to-hip ratio,Sex by Age,Women Age Group 2,2015,Lower Bound,2.864,,,,Women,1.063
+Average waist-to-hip ratio,Average waist-to-hip ratio,Sex by Age,Women Age Group 3,2015,Lower Bound,1.153,,,,Women,1.063
+Average waist-to-hip ratio,Average waist-to-hip ratio,Sex by Age,Women Age Group 4,2015,Lower Bound,5.706,,,,Women,1.063
+Average waist-to-hip ratio,Average waist-to-hip ratio,Sex by Age,Men Age Group 1,2015,Lower Bound,1.063,,,,Men,5.706
+Average waist-to-hip ratio,Average waist-to-hip ratio,Sex by Age,Men Age Group 2,2015,Lower Bound,3.267,,,,Men,5.706
+Average waist-to-hip ratio,Average waist-to-hip ratio,Sex by Age,Men Age Group 3,2015,Lower Bound,10.09,,,,Men,5.706
+Average waist-to-hip ratio,Average waist-to-hip ratio,Sex by Age,Men Age Group 4,2015,Lower Bound,5.257,,,,Men,5.706
+Average waist-to-hip ratio,Average waist-to-hip ratio,Sex by Area,Urban Men,2015,Lower Bound,1.591,,,,Men,5.706
+Average waist-to-hip ratio,Average waist-to-hip ratio,Sex by Area,Rural Men,2015,Lower Bound,4.105,,,,Men,5.706
+Average waist-to-hip ratio,Average waist-to-hip ratio,Sex by Area,Urban Women,2015,Lower Bound,12.35,,,,Women,1.063
+Average waist-to-hip ratio,Average waist-to-hip ratio,Sex by Area,Rural Women,2015,Lower Bound,9.906,,,,Women,1.063
+Average waist-to-hip ratio,Average waist-to-hip ratio,Age by Area,Urban Age Group 1,2015,Lower Bound,2.864,,,,Urban,4.105
+Average waist-to-hip ratio,Average waist-to-hip ratio,Age by Area,Rural Age Group 1,2015,Lower Bound,1.153,,,,Rural,12.35
+Average waist-to-hip ratio,Average waist-to-hip ratio,Age by Area,Urban Age Group 2,2015,Lower Bound,5.706,,,,Urban,4.105
+Average waist-to-hip ratio,Average waist-to-hip ratio,Age by Area,Rural Age Group 2,2015,Lower Bound,1.063,,,,Rural,12.35
+Average waist-to-hip ratio,Average waist-to-hip ratio,Age by Area,Urban Age Group 3,2015,Lower Bound,3.267,,,,Urban,4.105
+Average waist-to-hip ratio,Average waist-to-hip ratio,Age by Area,Rural Age Group 3,2015,Lower Bound,10.09,,,,Rural,12.35
+Average waist-to-hip ratio,Average waist-to-hip ratio,Age by Area,Urban Age Group 4,2015,Lower Bound,5.257,,,,Urban,4.105
+Average waist-to-hip ratio,Average waist-to-hip ratio,Age by Area,Rural Age Group 4,2015,Lower Bound,1.591,,,,Rural,12.35
+Average waist-to-hip ratio,Average waist-to-hip ratio,Total,Total,2015,Upper Bound,4.105,,,,"",
+Average waist-to-hip ratio,Average waist-to-hip ratio,Sex,Men,2015,Upper Bound,12.35,,,,Total,4.105
+Average waist-to-hip ratio,Average waist-to-hip ratio,Sex,Women,2015,Upper Bound,9.906,,,,Total,4.105
+Average waist-to-hip ratio,Average waist-to-hip ratio,Age,Age Group 1,2015,Upper Bound,2.864,,,,Total,4.105
+Average waist-to-hip ratio,Average waist-to-hip ratio,Age,Age Group 2,2015,Upper Bound,1.153,,,,Total,4.105
+Average waist-to-hip ratio,Average waist-to-hip ratio,Age,Age Group 3,2015,Upper Bound,5.706,,,,Total,4.105
+Average waist-to-hip ratio,Average waist-to-hip ratio,Age,Age Group 4,2015,Upper Bound,1.063,,,,Total,4.105
+Average waist-to-hip ratio,Average waist-to-hip ratio,Area,Urban,2015,Upper Bound,3.267,,,,Total,4.105
+Average waist-to-hip ratio,Average waist-to-hip ratio,Area,Rural,2015,Upper Bound,10.09,,,,Total,4.105
+Average waist-to-hip ratio,Average waist-to-hip ratio,Sex by Age,Women Age Group 1,2015,Upper Bound,5.257,,,,Women,9.906
+Average waist-to-hip ratio,Average waist-to-hip ratio,Sex by Age,Women Age Group 2,2015,Upper Bound,1.591,,,,Women,9.906
+Average waist-to-hip ratio,Average waist-to-hip ratio,Sex by Age,Women Age Group 3,2015,Upper Bound,4.105,,,,Women,9.906
+Average waist-to-hip ratio,Average waist-to-hip ratio,Sex by Age,Women Age Group 4,2015,Upper Bound,12.35,,,,Women,9.906
+Average waist-to-hip ratio,Average waist-to-hip ratio,Sex by Age,Men Age Group 1,2015,Upper Bound,9.906,,,,Men,12.35
+Average waist-to-hip ratio,Average waist-to-hip ratio,Sex by Age,Men Age Group 2,2015,Upper Bound,2.864,,,,Men,12.35
+Average waist-to-hip ratio,Average waist-to-hip ratio,Sex by Age,Men Age Group 3,2015,Upper Bound,1.153,,,,Men,12.35
+Average waist-to-hip ratio,Average waist-to-hip ratio,Sex by Age,Men Age Group 4,2015,Upper Bound,5.706,,,,Men,12.35
+Average waist-to-hip ratio,Average waist-to-hip ratio,Sex by Area,Urban Men,2015,Upper Bound,1.063,,,,Men,12.35
+Average waist-to-hip ratio,Average waist-to-hip ratio,Sex by Area,Rural Men,2015,Upper Bound,3.267,,,,Men,12.35
+Average waist-to-hip ratio,Average waist-to-hip ratio,Sex by Area,Urban Women,2015,Upper Bound,10.09,,,,Women,9.906
+Average waist-to-hip ratio,Average waist-to-hip ratio,Sex by Area,Rural Women,2015,Upper Bound,5.257,,,,Women,9.906
+Average waist-to-hip ratio,Average waist-to-hip ratio,Age by Area,Urban Age Group 1,2015,Upper Bound,1.591,,,,Urban,3.267
+Average waist-to-hip ratio,Average waist-to-hip ratio,Age by Area,Rural Age Group 1,2015,Upper Bound,4.105,,,,Rural,10.09
+Average waist-to-hip ratio,Average waist-to-hip ratio,Age by Area,Urban Age Group 2,2015,Upper Bound,12.35,,,,Urban,3.267
+Average waist-to-hip ratio,Average waist-to-hip ratio,Age by Area,Rural Age Group 2,2015,Upper Bound,9.906,,,,Rural,10.09
+Average waist-to-hip ratio,Average waist-to-hip ratio,Age by Area,Urban Age Group 3,2015,Upper Bound,2.864,,,,Urban,3.267
+Average waist-to-hip ratio,Average waist-to-hip ratio,Age by Area,Rural Age Group 3,2015,Upper Bound,1.153,,,,Rural,10.09
+Average waist-to-hip ratio,Average waist-to-hip ratio,Age by Area,Urban Age Group 4,2015,Upper Bound,5.706,,,,Urban,3.267
+Average waist-to-hip ratio,Average waist-to-hip ratio,Age by Area,Rural Age Group 4,2015,Lower Bound,1.063,,,,Rural,12.35
